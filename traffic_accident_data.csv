@@ -1,0 +1,1001 @@
+Accident_ID,Date,Location,Vehicle_Type,Cause,Weather_Condition,Severity,Number_of_Vehicles,Day_of_Week,Hour_of_Day,Season,Accident_Rate
+ACC4199,2023-12-20,Kolkata,Car,Drunk driving,Foggy,Minor,2,Monday,0,Monsoon,7
+ACC6015,2024-06-20,Delhi,Bike,Over-speeding,Cloudy,Fatal,4,Wednesday,20,Winter,1
+ACC5263,2023-03-18,Surat,Auto,Drunk driving,Cloudy,Moderate,3,Thursday,13,Winter,7
+ACC7413,2022-08-16,Mumbai,Auto,Over-speeding,Clear,Moderate,1,Saturday,17,Monsoon,2
+ACC3482,2020-11-30,Surat,Van,Distracted driving,Rainy,Minor,3,Friday,5,Winter,7
+ACC5512,2021-09-30,Bangalore,Bike,Road rage,Clear,Minor,4,Monday,23,Monsoon,9
+ACC5121,2024-08-31,Kolkata,Auto,Weather conditions,Rainy,Severe,4,Monday,14,Summer,3
+ACC5645,2022-02-03,Jaipur,Auto,Red light jumping,Cloudy,Severe,2,Thursday,9,Winter,7
+ACC4262,2023-07-01,Surat,Van,Weather conditions,Stormy,Minor,3,Friday,19,Summer,2
+ACC8509,2020-11-23,Chennai,Van,Drunk driving,Cloudy,Severe,1,Friday,0,Monsoon,9
+ACC4451,2021-11-26,Hyderabad,Truck,Road rage,Foggy,Moderate,3,Thursday,7,Monsoon,8
+ACC8324,2024-06-19,Ahmedabad,Auto,Distracted driving,Clear,Moderate,4,Friday,21,Summer,1
+ACC5346,2020-07-01,Jaipur,Auto,Road rage,Cloudy,Severe,2,Tuesday,22,Summer,10
+ACC9587,2020-09-25,Kolkata,Auto,Over-speeding,Cloudy,Fatal,6,Tuesday,10,Summer,4
+ACC3515,2023-11-15,Pune,Auto,Distracted driving,Foggy,Fatal,5,Monday,7,Monsoon,7
+ACC6885,2021-12-02,Kolkata,Bike,Weather conditions,Stormy,Minor,2,Friday,14,Winter,4
+ACC3260,2021-03-19,Jaipur,Truck,Drunk driving,Windy,Minor,1,Thursday,10,Monsoon,3
+ACC3584,2022-05-19,Surat,Van,Distracted driving,Clear,Moderate,6,Sunday,20,Monsoon,5
+ACC4744,2023-08-04,Surat,Bus,Distracted driving,Rainy,Moderate,5,Tuesday,3,Winter,8
+ACC6774,2020-08-23,Surat,Truck,Over-speeding,Rainy,Minor,3,Monday,3,Winter,4
+ACC6842,2022-05-27,Delhi,Auto,Signal violation,Windy,Minor,4,Wednesday,6,Monsoon,1
+ACC4289,2021-08-03,Bangalore,Car,Red light jumping,Stormy,Minor,1,Tuesday,22,Monsoon,2
+ACC8448,2021-01-03,Jaipur,Car,Distracted driving,Foggy,Fatal,4,Monday,4,Monsoon,8
+ACC6010,2021-03-25,Mumbai,Van,Road rage,Windy,Minor,1,Saturday,2,Summer,9
+ACC6525,2022-12-15,Bangalore,Truck,Signal violation,Stormy,Severe,2,Thursday,15,Summer,3
+ACC1090,2023-07-06,Bangalore,Van,Red light jumping,Stormy,Moderate,1,Sunday,13,Summer,5
+ACC8277,2021-08-27,Chennai,Bike,Over-speeding,Rainy,Fatal,1,Monday,12,Summer,7
+ACC2696,2020-03-26,Chennai,Car,Road rage,Cloudy,Fatal,1,Friday,21,Monsoon,4
+ACC1028,2024-12-27,Surat,Auto,Signal violation,Clear,Severe,2,Friday,11,Winter,2
+ACC4695,2021-03-21,Jaipur,Bike,Weather conditions,Foggy,Moderate,6,Sunday,13,Monsoon,8
+ACC6654,2021-11-25,Surat,Car,Signal violation,Cloudy,Fatal,5,Tuesday,17,Summer,2
+ACC6658,2021-03-04,Pune,Bus,Red light jumping,Cloudy,Severe,4,Wednesday,18,Summer,9
+ACC2110,2020-08-02,Jaipur,Bus,Weather conditions,Clear,Fatal,3,Monday,1,Summer,5
+ACC1446,2022-04-24,Bangalore,Auto,Weather conditions,Clear,Moderate,6,Sunday,19,Winter,10
+ACC4298,2021-03-28,Ahmedabad,Bike,Road rage,Cloudy,Fatal,2,Saturday,7,Summer,7
+ACC6831,2022-02-26,Delhi,Van,Red light jumping,Cloudy,Moderate,1,Monday,6,Winter,2
+ACC4484,2023-03-21,Kolkata,Car,Road rage,Clear,Severe,3,Saturday,0,Summer,5
+ACC2538,2021-01-01,Bangalore,Truck,Red light jumping,Clear,Minor,6,Thursday,12,Summer,3
+ACC2280,2024-05-22,Jaipur,Bus,Road rage,Cloudy,Minor,6,Friday,9,Winter,2
+ACC3842,2024-09-07,Mumbai,Car,Distracted driving,Stormy,Severe,3,Monday,8,Monsoon,10
+ACC9497,2023-09-12,Surat,Auto,Drunk driving,Foggy,Fatal,2,Tuesday,14,Summer,1
+ACC3483,2024-07-16,Chennai,Bike,Red light jumping,Clear,Severe,2,Tuesday,9,Monsoon,7
+ACC2361,2024-07-27,Kolkata,Bus,Weather conditions,Clear,Moderate,1,Tuesday,12,Monsoon,7
+ACC2545,2022-12-13,Pune,Bus,Weather conditions,Rainy,Fatal,6,Friday,18,Winter,2
+ACC4621,2022-12-24,Jaipur,Bike,Road rage,Windy,Moderate,2,Thursday,0,Winter,8
+ACC1413,2022-06-30,Hyderabad,Bus,Drunk driving,Windy,Severe,3,Wednesday,20,Winter,7
+ACC9838,2024-06-13,Surat,Car,Signal violation,Foggy,Severe,6,Thursday,17,Summer,10
+ACC9753,2023-03-24,Jaipur,Bike,Drunk driving,Clear,Fatal,1,Monday,12,Winter,10
+ACC4541,2023-07-07,Mumbai,Truck,Over-speeding,Windy,Moderate,6,Thursday,15,Winter,9
+ACC1193,2024-10-12,Delhi,Auto,Red light jumping,Windy,Severe,3,Friday,1,Winter,6
+ACC2234,2021-08-20,Bangalore,Truck,Drunk driving,Stormy,Severe,4,Wednesday,16,Winter,8
+ACC7930,2020-12-01,Jaipur,Bike,Over-speeding,Windy,Fatal,5,Thursday,23,Summer,7
+ACC6627,2020-02-25,Mumbai,Van,Weather conditions,Stormy,Severe,3,Friday,7,Monsoon,8
+ACC3994,2021-09-29,Jaipur,Bus,Distracted driving,Rainy,Fatal,1,Sunday,18,Winter,8
+ACC3186,2020-12-12,Kolkata,Bus,Distracted driving,Windy,Fatal,5,Wednesday,2,Monsoon,5
+ACC9465,2021-09-28,Bangalore,Bike,Signal violation,Clear,Severe,1,Sunday,17,Monsoon,2
+ACC9033,2024-03-17,Mumbai,Auto,Over-speeding,Stormy,Severe,5,Saturday,0,Summer,4
+ACC3627,2023-08-03,Jaipur,Van,Signal violation,Cloudy,Fatal,3,Sunday,1,Winter,1
+ACC5071,2024-11-18,Surat,Bus,Signal violation,Cloudy,Fatal,5,Monday,9,Monsoon,8
+ACC8004,2021-12-13,Chennai,Car,Signal violation,Clear,Severe,3,Friday,4,Summer,1
+ACC4676,2020-05-21,Pune,Truck,Signal violation,Stormy,Minor,3,Wednesday,15,Summer,1
+ACC2479,2022-07-05,Hyderabad,Bus,Drunk driving,Stormy,Severe,3,Saturday,2,Summer,5
+ACC7622,2024-08-04,Mumbai,Auto,Red light jumping,Foggy,Minor,1,Friday,8,Winter,6
+ACC9849,2021-09-08,Pune,Bike,Road rage,Cloudy,Minor,6,Tuesday,7,Summer,2
+ACC9503,2024-04-09,Delhi,Bike,Road rage,Stormy,Severe,1,Friday,17,Monsoon,7
+ACC9760,2020-01-19,Kolkata,Van,Road rage,Foggy,Fatal,5,Friday,10,Summer,7
+ACC2529,2024-07-27,Kolkata,Car,Distracted driving,Cloudy,Moderate,5,Tuesday,9,Monsoon,9
+ACC6426,2020-07-06,Bangalore,Auto,Red light jumping,Windy,Moderate,2,Saturday,21,Monsoon,10
+ACC8325,2020-11-27,Jaipur,Auto,Drunk driving,Windy,Moderate,2,Wednesday,1,Winter,8
+ACC9274,2023-12-15,Bangalore,Bike,Weather conditions,Clear,Minor,3,Friday,8,Monsoon,5
+ACC3626,2020-08-14,Jaipur,Bike,Drunk driving,Clear,Moderate,1,Friday,4,Monsoon,10
+ACC2322,2023-11-30,Chennai,Bus,Weather conditions,Stormy,Minor,2,Saturday,14,Summer,5
+ACC4417,2024-11-19,Kolkata,Van,Signal violation,Rainy,Moderate,3,Monday,8,Summer,5
+ACC8306,2023-07-06,Surat,Bike,Road rage,Windy,Minor,1,Tuesday,23,Winter,4
+ACC1859,2024-05-23,Chennai,Truck,Drunk driving,Windy,Fatal,1,Friday,3,Winter,9
+ACC1868,2023-12-23,Hyderabad,Truck,Signal violation,Windy,Fatal,6,Tuesday,1,Winter,7
+ACC5354,2023-03-23,Chennai,Bus,Signal violation,Stormy,Minor,6,Tuesday,9,Winter,9
+ACC5677,2024-02-29,Chennai,Bus,Red light jumping,Rainy,Fatal,5,Sunday,17,Monsoon,10
+ACC6630,2024-08-31,Hyderabad,Auto,Over-speeding,Foggy,Moderate,2,Saturday,7,Winter,3
+ACC4353,2023-10-13,Jaipur,Bus,Signal violation,Windy,Severe,3,Friday,1,Summer,3
+ACC3797,2024-07-31,Ahmedabad,Truck,Road rage,Stormy,Severe,3,Friday,7,Summer,7
+ACC4758,2023-05-18,Ahmedabad,Bus,Over-speeding,Cloudy,Moderate,5,Wednesday,2,Summer,5
+ACC6064,2021-03-02,Kolkata,Truck,Over-speeding,Clear,Moderate,2,Wednesday,9,Summer,10
+ACC2944,2021-11-25,Surat,Auto,Drunk driving,Windy,Minor,1,Friday,12,Summer,6
+ACC9573,2023-06-23,Mumbai,Car,Signal violation,Clear,Fatal,3,Monday,13,Winter,4
+ACC6046,2020-09-09,Pune,Bus,Red light jumping,Clear,Moderate,4,Saturday,1,Winter,1
+ACC4865,2024-08-06,Bangalore,Bus,Distracted driving,Windy,Fatal,1,Wednesday,21,Winter,6
+ACC7077,2020-10-21,Bangalore,Car,Over-speeding,Stormy,Moderate,4,Sunday,7,Summer,6
+ACC2211,2022-07-17,Mumbai,Car,Over-speeding,Stormy,Minor,2,Wednesday,17,Monsoon,6
+ACC6025,2020-12-16,Surat,Auto,Over-speeding,Windy,Minor,5,Saturday,14,Winter,1
+ACC1699,2021-10-28,Mumbai,Bike,Signal violation,Rainy,Minor,5,Wednesday,23,Winter,3
+ACC1019,2024-03-03,Bangalore,Car,Over-speeding,Rainy,Minor,2,Friday,19,Summer,8
+ACC7471,2023-05-01,Mumbai,Auto,Drunk driving,Clear,Moderate,5,Monday,22,Monsoon,9
+ACC5539,2022-06-27,Hyderabad,Bike,Drunk driving,Windy,Minor,2,Thursday,19,Winter,3
+ACC3000,2022-01-05,Chennai,Truck,Distracted driving,Windy,Minor,1,Sunday,16,Winter,4
+ACC7980,2024-02-18,Bangalore,Truck,Distracted driving,Cloudy,Severe,3,Wednesday,6,Summer,2
+ACC7702,2020-05-05,Jaipur,Van,Drunk driving,Stormy,Fatal,5,Monday,4,Summer,1
+ACC7550,2020-08-08,Jaipur,Car,Red light jumping,Stormy,Moderate,3,Tuesday,8,Winter,9
+ACC6234,2024-05-01,Mumbai,Bike,Drunk driving,Foggy,Minor,4,Wednesday,8,Winter,1
+ACC8040,2021-12-17,Delhi,Truck,Distracted driving,Cloudy,Fatal,5,Friday,3,Summer,7
+ACC2080,2024-01-26,Delhi,Car,Drunk driving,Stormy,Fatal,3,Sunday,12,Summer,9
+ACC5529,2023-09-19,Kolkata,Car,Red light jumping,Windy,Minor,2,Tuesday,17,Winter,7
+ACC6231,2021-02-15,Jaipur,Car,Distracted driving,Windy,Moderate,6,Tuesday,5,Winter,8
+ACC4216,2024-06-18,Jaipur,Auto,Drunk driving,Windy,Minor,2,Friday,22,Winter,6
+ACC4711,2021-09-13,Bangalore,Car,Signal violation,Clear,Severe,6,Thursday,7,Summer,10
+ACC6401,2020-07-02,Bangalore,Truck,Drunk driving,Rainy,Moderate,3,Friday,7,Summer,9
+ACC9712,2022-02-04,Jaipur,Van,Road rage,Cloudy,Severe,4,Friday,3,Summer,2
+ACC7960,2022-12-06,Bangalore,Van,Weather conditions,Rainy,Severe,6,Friday,22,Monsoon,9
+ACC6291,2021-05-19,Pune,Truck,Signal violation,Windy,Severe,1,Saturday,18,Monsoon,3
+ACC2879,2022-08-05,Mumbai,Auto,Drunk driving,Cloudy,Fatal,2,Sunday,8,Monsoon,8
+ACC9766,2021-09-01,Surat,Car,Signal violation,Rainy,Severe,1,Sunday,0,Monsoon,5
+ACC5074,2020-05-16,Pune,Auto,Signal violation,Cloudy,Minor,5,Friday,7,Summer,2
+ACC3754,2024-12-10,Jaipur,Auto,Red light jumping,Rainy,Severe,5,Sunday,1,Summer,5
+ACC5746,2023-03-24,Pune,Bus,Over-speeding,Cloudy,Fatal,5,Saturday,21,Winter,2
+ACC8817,2023-03-28,Chennai,Bike,Weather conditions,Foggy,Minor,6,Monday,6,Winter,6
+ACC1898,2023-02-01,Pune,Truck,Road rage,Stormy,Minor,6,Thursday,2,Monsoon,10
+ACC4370,2021-10-29,Chennai,Van,Red light jumping,Clear,Fatal,4,Wednesday,8,Summer,9
+ACC6693,2024-12-21,Pune,Truck,Road rage,Rainy,Fatal,2,Sunday,22,Winter,4
+ACC5657,2024-01-12,Surat,Van,Over-speeding,Stormy,Severe,3,Tuesday,23,Monsoon,10
+ACC4584,2022-08-29,Bangalore,Bus,Distracted driving,Clear,Severe,1,Thursday,9,Monsoon,2
+ACC1545,2022-08-06,Bangalore,Van,Red light jumping,Foggy,Minor,2,Thursday,20,Summer,1
+ACC3664,2024-06-11,Ahmedabad,Car,Weather conditions,Windy,Minor,5,Tuesday,5,Winter,10
+ACC1628,2021-05-12,Hyderabad,Van,Signal violation,Windy,Severe,6,Thursday,19,Summer,4
+ACC5063,2023-09-15,Jaipur,Car,Signal violation,Rainy,Moderate,3,Wednesday,5,Winter,5
+ACC9262,2023-08-07,Surat,Van,Road rage,Foggy,Fatal,2,Thursday,15,Monsoon,2
+ACC1052,2022-10-04,Delhi,Van,Signal violation,Stormy,Fatal,6,Wednesday,0,Monsoon,3
+ACC4765,2020-03-13,Kolkata,Truck,Over-speeding,Foggy,Moderate,5,Friday,18,Winter,1
+ACC9915,2021-04-18,Chennai,Bike,Over-speeding,Windy,Fatal,3,Sunday,8,Summer,8
+ACC7017,2021-07-29,Hyderabad,Auto,Drunk driving,Foggy,Minor,6,Tuesday,16,Monsoon,5
+ACC6432,2022-05-15,Bangalore,Van,Over-speeding,Rainy,Minor,1,Friday,23,Monsoon,2
+ACC4420,2020-10-05,Bangalore,Car,Signal violation,Clear,Severe,4,Wednesday,9,Summer,2
+ACC2626,2024-01-10,Hyderabad,Bus,Distracted driving,Rainy,Fatal,6,Saturday,7,Winter,2
+ACC8415,2022-05-25,Hyderabad,Bus,Weather conditions,Cloudy,Minor,1,Tuesday,18,Winter,3
+ACC9828,2022-02-11,Mumbai,Bus,Signal violation,Windy,Minor,2,Tuesday,5,Monsoon,6
+ACC9153,2023-06-08,Pune,Truck,Over-speeding,Clear,Severe,5,Monday,22,Monsoon,3
+ACC8261,2023-07-05,Hyderabad,Bike,Over-speeding,Clear,Minor,4,Friday,9,Summer,9
+ACC6513,2021-12-29,Chennai,Van,Over-speeding,Foggy,Severe,6,Thursday,2,Winter,10
+ACC4675,2021-07-07,Delhi,Van,Signal violation,Windy,Minor,4,Monday,11,Winter,7
+ACC7138,2020-06-16,Delhi,Car,Red light jumping,Clear,Fatal,2,Monday,1,Monsoon,2
+ACC6664,2021-07-04,Surat,Van,Signal violation,Windy,Fatal,2,Thursday,14,Monsoon,4
+ACC4908,2021-12-18,Pune,Truck,Signal violation,Foggy,Minor,1,Monday,6,Summer,10
+ACC4355,2022-08-27,Hyderabad,Van,Red light jumping,Foggy,Severe,5,Monday,4,Monsoon,2
+ACC8987,2021-01-14,Hyderabad,Van,Weather conditions,Clear,Minor,5,Sunday,16,Summer,2
+ACC9570,2020-09-23,Surat,Car,Signal violation,Windy,Fatal,4,Monday,21,Summer,9
+ACC5685,2024-11-27,Hyderabad,Auto,Over-speeding,Cloudy,Minor,3,Tuesday,3,Monsoon,7
+ACC5789,2020-05-17,Delhi,Truck,Red light jumping,Clear,Severe,3,Thursday,19,Winter,2
+ACC7918,2022-03-03,Pune,Bike,Drunk driving,Stormy,Minor,1,Friday,7,Summer,4
+ACC6041,2024-03-02,Pune,Bike,Distracted driving,Foggy,Fatal,3,Tuesday,14,Winter,5
+ACC6774,2022-08-29,Mumbai,Auto,Signal violation,Windy,Moderate,1,Wednesday,0,Winter,2
+ACC4937,2023-01-18,Pune,Car,Drunk driving,Windy,Severe,4,Tuesday,16,Monsoon,5
+ACC5309,2022-02-13,Bangalore,Bus,Distracted driving,Windy,Moderate,3,Wednesday,19,Monsoon,5
+ACC2806,2022-10-02,Kolkata,Auto,Over-speeding,Windy,Severe,5,Saturday,3,Summer,8
+ACC3263,2024-04-30,Hyderabad,Auto,Road rage,Foggy,Fatal,1,Wednesday,19,Monsoon,3
+ACC6410,2021-04-16,Jaipur,Van,Road rage,Cloudy,Fatal,4,Friday,15,Monsoon,1
+ACC4333,2024-01-22,Surat,Car,Road rage,Cloudy,Minor,1,Friday,5,Summer,2
+ACC4926,2021-06-18,Delhi,Truck,Over-speeding,Clear,Moderate,1,Monday,12,Monsoon,1
+ACC1362,2023-08-04,Bangalore,Bus,Over-speeding,Clear,Moderate,4,Wednesday,18,Summer,9
+ACC1834,2020-06-20,Delhi,Bike,Red light jumping,Stormy,Fatal,1,Saturday,6,Winter,2
+ACC3447,2024-06-30,Delhi,Van,Signal violation,Rainy,Fatal,3,Tuesday,2,Monsoon,1
+ACC6964,2024-10-25,Kolkata,Auto,Road rage,Rainy,Fatal,3,Wednesday,7,Summer,8
+ACC1450,2020-02-07,Surat,Bus,Drunk driving,Stormy,Severe,2,Saturday,9,Monsoon,5
+ACC4469,2024-07-16,Mumbai,Bike,Distracted driving,Rainy,Minor,3,Sunday,22,Summer,7
+ACC3177,2023-08-30,Delhi,Truck,Distracted driving,Cloudy,Moderate,3,Monday,19,Winter,6
+ACC8631,2021-09-10,Surat,Car,Signal violation,Clear,Severe,4,Monday,15,Winter,1
+ACC6881,2024-04-29,Mumbai,Bus,Signal violation,Clear,Severe,2,Tuesday,8,Summer,9
+ACC4706,2023-10-18,Chennai,Bike,Red light jumping,Foggy,Fatal,2,Monday,2,Monsoon,9
+ACC8960,2021-11-19,Chennai,Bike,Drunk driving,Foggy,Fatal,6,Sunday,15,Monsoon,3
+ACC1264,2020-03-02,Ahmedabad,Van,Over-speeding,Windy,Minor,6,Wednesday,7,Monsoon,8
+ACC1458,2020-03-19,Chennai,Bus,Drunk driving,Clear,Fatal,6,Tuesday,20,Monsoon,5
+ACC7205,2023-04-03,Pune,Car,Distracted driving,Stormy,Moderate,3,Wednesday,10,Winter,4
+ACC8062,2021-03-04,Pune,Truck,Weather conditions,Cloudy,Moderate,4,Saturday,8,Summer,2
+ACC5397,2021-08-21,Delhi,Van,Signal violation,Cloudy,Moderate,2,Sunday,8,Summer,4
+ACC6468,2020-02-02,Kolkata,Car,Red light jumping,Rainy,Moderate,6,Thursday,8,Monsoon,1
+ACC2868,2022-09-28,Hyderabad,Auto,Drunk driving,Windy,Minor,2,Tuesday,4,Monsoon,8
+ACC2431,2022-03-31,Chennai,Van,Drunk driving,Clear,Severe,5,Saturday,20,Monsoon,2
+ACC8775,2024-06-29,Ahmedabad,Bus,Drunk driving,Cloudy,Fatal,3,Wednesday,18,Monsoon,5
+ACC7341,2020-05-22,Kolkata,Van,Over-speeding,Stormy,Severe,1,Saturday,22,Summer,6
+ACC7714,2021-01-12,Kolkata,Car,Over-speeding,Foggy,Moderate,4,Thursday,14,Winter,7
+ACC7197,2024-03-28,Chennai,Van,Road rage,Clear,Severe,4,Tuesday,23,Winter,6
+ACC8861,2024-01-19,Hyderabad,Van,Weather conditions,Foggy,Moderate,2,Friday,16,Winter,10
+ACC8907,2021-09-27,Jaipur,Auto,Drunk driving,Stormy,Minor,6,Monday,5,Summer,10
+ACC2188,2021-10-25,Ahmedabad,Auto,Weather conditions,Clear,Moderate,1,Friday,9,Summer,6
+ACC1555,2023-09-06,Pune,Van,Over-speeding,Clear,Minor,4,Monday,8,Summer,4
+ACC1265,2021-01-04,Surat,Car,Distracted driving,Windy,Severe,6,Saturday,6,Monsoon,10
+ACC8082,2020-07-22,Mumbai,Auto,Over-speeding,Windy,Severe,2,Thursday,8,Winter,3
+ACC1842,2023-02-17,Hyderabad,Auto,Weather conditions,Windy,Moderate,4,Monday,22,Summer,4
+ACC9320,2023-12-10,Surat,Truck,Weather conditions,Rainy,Fatal,2,Sunday,20,Summer,5
+ACC3810,2020-03-31,Ahmedabad,Truck,Road rage,Clear,Minor,3,Tuesday,8,Summer,10
+ACC2521,2024-10-30,Surat,Truck,Over-speeding,Clear,Fatal,5,Saturday,0,Winter,6
+ACC2073,2022-09-24,Jaipur,Truck,Signal violation,Stormy,Minor,5,Thursday,21,Summer,4
+ACC1213,2020-05-20,Bangalore,Bike,Road rage,Rainy,Severe,4,Thursday,17,Winter,3
+ACC4102,2020-01-19,Pune,Truck,Distracted driving,Cloudy,Severe,4,Wednesday,18,Summer,8
+ACC3118,2023-04-03,Surat,Bus,Red light jumping,Rainy,Fatal,1,Friday,12,Summer,3
+ACC7126,2022-06-19,Jaipur,Auto,Red light jumping,Rainy,Fatal,6,Saturday,20,Summer,9
+ACC4327,2024-04-09,Pune,Truck,Distracted driving,Stormy,Moderate,4,Wednesday,3,Winter,6
+ACC5889,2022-12-27,Chennai,Van,Signal violation,Rainy,Minor,4,Monday,6,Summer,10
+ACC5759,2021-08-28,Ahmedabad,Van,Red light jumping,Windy,Fatal,4,Monday,8,Winter,9
+ACC5176,2024-05-31,Chennai,Car,Signal violation,Stormy,Moderate,6,Thursday,11,Monsoon,5
+ACC1622,2022-10-22,Hyderabad,Bus,Road rage,Foggy,Minor,5,Sunday,1,Summer,5
+ACC4671,2024-04-04,Pune,Van,Drunk driving,Clear,Severe,6,Tuesday,10,Winter,10
+ACC8757,2022-05-12,Kolkata,Van,Road rage,Stormy,Minor,3,Friday,1,Winter,3
+ACC1575,2022-07-28,Bangalore,Truck,Road rage,Clear,Moderate,3,Tuesday,21,Summer,1
+ACC7076,2024-02-13,Jaipur,Van,Red light jumping,Foggy,Moderate,2,Tuesday,15,Monsoon,6
+ACC3302,2023-04-02,Chennai,Bike,Distracted driving,Stormy,Minor,6,Saturday,13,Winter,10
+ACC4281,2021-01-19,Pune,Truck,Red light jumping,Rainy,Severe,3,Friday,16,Summer,7
+ACC4401,2022-02-14,Hyderabad,Bus,Red light jumping,Clear,Fatal,1,Thursday,11,Summer,9
+ACC7202,2021-04-21,Kolkata,Bike,Over-speeding,Rainy,Severe,4,Saturday,22,Monsoon,10
+ACC5252,2023-09-25,Mumbai,Truck,Signal violation,Clear,Fatal,2,Monday,7,Winter,2
+ACC6834,2022-06-08,Bangalore,Auto,Signal violation,Windy,Severe,5,Thursday,13,Monsoon,8
+ACC5670,2021-02-13,Mumbai,Truck,Signal violation,Rainy,Minor,2,Friday,21,Summer,10
+ACC5541,2020-02-26,Kolkata,Van,Over-speeding,Rainy,Moderate,6,Saturday,11,Summer,3
+ACC5722,2022-09-27,Bangalore,Bus,Signal violation,Rainy,Severe,1,Monday,16,Monsoon,5
+ACC5442,2023-05-16,Mumbai,Van,Distracted driving,Cloudy,Fatal,1,Tuesday,23,Monsoon,3
+ACC2908,2020-03-02,Bangalore,Bus,Weather conditions,Stormy,Moderate,3,Friday,23,Monsoon,6
+ACC8843,2021-05-18,Hyderabad,Van,Drunk driving,Rainy,Moderate,2,Sunday,9,Monsoon,3
+ACC3938,2024-02-09,Kolkata,Car,Road rage,Cloudy,Fatal,6,Thursday,2,Monsoon,6
+ACC9003,2022-06-27,Bangalore,Car,Weather conditions,Foggy,Moderate,5,Thursday,1,Winter,9
+ACC3674,2022-04-19,Hyderabad,Bus,Drunk driving,Cloudy,Moderate,4,Monday,11,Monsoon,3
+ACC9195,2023-08-25,Kolkata,Bike,Weather conditions,Foggy,Moderate,6,Wednesday,8,Summer,10
+ACC2291,2024-06-19,Kolkata,Bike,Over-speeding,Windy,Minor,6,Wednesday,17,Summer,5
+ACC4430,2020-08-24,Pune,Truck,Distracted driving,Stormy,Severe,4,Monday,0,Summer,3
+ACC9309,2020-01-04,Jaipur,Bike,Signal violation,Clear,Moderate,5,Tuesday,11,Monsoon,3
+ACC4780,2021-10-07,Pune,Car,Over-speeding,Foggy,Minor,4,Tuesday,18,Monsoon,7
+ACC4366,2022-04-11,Jaipur,Auto,Over-speeding,Foggy,Fatal,1,Thursday,20,Summer,6
+ACC4026,2021-02-26,Jaipur,Bike,Red light jumping,Clear,Moderate,6,Sunday,15,Summer,7
+ACC5309,2023-09-30,Surat,Van,Weather conditions,Cloudy,Minor,2,Thursday,7,Monsoon,6
+ACC8362,2024-02-12,Surat,Car,Signal violation,Clear,Fatal,1,Tuesday,1,Winter,9
+ACC4073,2020-07-08,Mumbai,Car,Red light jumping,Stormy,Minor,6,Monday,19,Summer,4
+ACC3545,2024-04-13,Delhi,Truck,Drunk driving,Stormy,Fatal,6,Tuesday,5,Monsoon,6
+ACC3976,2024-03-28,Jaipur,Truck,Road rage,Clear,Moderate,5,Friday,8,Monsoon,6
+ACC1751,2021-01-16,Hyderabad,Van,Over-speeding,Windy,Moderate,5,Tuesday,17,Monsoon,10
+ACC1932,2022-05-31,Chennai,Bus,Drunk driving,Rainy,Fatal,3,Friday,12,Winter,7
+ACC1188,2024-09-19,Delhi,Car,Red light jumping,Windy,Severe,5,Monday,20,Summer,8
+ACC5777,2023-04-28,Delhi,Auto,Signal violation,Foggy,Minor,6,Sunday,20,Monsoon,7
+ACC9187,2023-03-20,Hyderabad,Auto,Over-speeding,Rainy,Fatal,2,Tuesday,14,Summer,6
+ACC7544,2020-02-19,Mumbai,Bus,Red light jumping,Foggy,Moderate,1,Saturday,9,Monsoon,2
+ACC1083,2022-06-22,Ahmedabad,Car,Over-speeding,Rainy,Minor,3,Friday,18,Summer,7
+ACC8884,2022-03-08,Hyderabad,Van,Road rage,Clear,Moderate,1,Monday,14,Summer,2
+ACC2251,2021-01-31,Jaipur,Van,Signal violation,Windy,Fatal,3,Wednesday,22,Winter,8
+ACC5212,2021-09-29,Delhi,Bus,Weather conditions,Cloudy,Minor,5,Monday,8,Summer,7
+ACC2370,2020-01-30,Jaipur,Bike,Road rage,Cloudy,Fatal,3,Monday,20,Summer,9
+ACC7590,2024-01-01,Chennai,Auto,Over-speeding,Clear,Minor,6,Thursday,8,Summer,7
+ACC1963,2022-04-30,Ahmedabad,Bike,Distracted driving,Windy,Moderate,4,Tuesday,9,Summer,1
+ACC9444,2024-04-06,Kolkata,Truck,Drunk driving,Foggy,Moderate,2,Tuesday,2,Monsoon,5
+ACC5958,2021-09-25,Ahmedabad,Car,Road rage,Windy,Severe,6,Tuesday,4,Monsoon,2
+ACC1676,2023-09-12,Ahmedabad,Bus,Signal violation,Cloudy,Fatal,4,Friday,16,Summer,1
+ACC1376,2023-12-05,Chennai,Auto,Red light jumping,Clear,Fatal,1,Friday,15,Monsoon,7
+ACC2981,2021-03-21,Bangalore,Van,Distracted driving,Clear,Minor,2,Tuesday,20,Monsoon,4
+ACC3774,2024-10-11,Chennai,Bus,Weather conditions,Rainy,Severe,3,Friday,6,Monsoon,8
+ACC1745,2022-05-18,Hyderabad,Car,Road rage,Foggy,Severe,2,Sunday,6,Monsoon,2
+ACC3962,2023-06-29,Hyderabad,Auto,Distracted driving,Foggy,Minor,6,Thursday,6,Winter,8
+ACC2867,2020-02-01,Jaipur,Truck,Road rage,Windy,Moderate,3,Thursday,3,Winter,8
+ACC1686,2024-06-10,Jaipur,Auto,Over-speeding,Windy,Minor,1,Sunday,5,Summer,10
+ACC4756,2022-11-23,Kolkata,Van,Road rage,Foggy,Moderate,3,Monday,2,Summer,8
+ACC4931,2020-12-08,Bangalore,Bus,Distracted driving,Clear,Severe,6,Sunday,5,Monsoon,6
+ACC3134,2021-04-18,Kolkata,Auto,Weather conditions,Stormy,Severe,1,Wednesday,11,Monsoon,2
+ACC1839,2021-08-01,Kolkata,Auto,Drunk driving,Foggy,Fatal,3,Monday,0,Monsoon,9
+ACC5778,2024-08-07,Jaipur,Car,Red light jumping,Windy,Minor,2,Wednesday,14,Monsoon,5
+ACC1215,2022-09-10,Mumbai,Truck,Signal violation,Cloudy,Severe,6,Monday,21,Monsoon,8
+ACC6517,2022-03-11,Pune,Bike,Distracted driving,Stormy,Minor,4,Sunday,15,Winter,1
+ACC2925,2020-02-21,Bangalore,Auto,Road rage,Clear,Severe,6,Thursday,18,Monsoon,2
+ACC5466,2024-09-06,Mumbai,Bike,Road rage,Rainy,Severe,6,Monday,2,Winter,9
+ACC7688,2023-02-06,Chennai,Auto,Red light jumping,Foggy,Minor,2,Wednesday,1,Winter,6
+ACC6184,2022-08-23,Kolkata,Car,Drunk driving,Windy,Severe,2,Monday,17,Summer,1
+ACC3037,2024-08-20,Pune,Van,Distracted driving,Cloudy,Severe,2,Saturday,9,Summer,9
+ACC6803,2023-09-26,Ahmedabad,Truck,Signal violation,Foggy,Moderate,6,Saturday,20,Winter,6
+ACC2113,2022-05-06,Delhi,Auto,Distracted driving,Windy,Fatal,1,Tuesday,0,Monsoon,6
+ACC3913,2022-11-28,Bangalore,Van,Weather conditions,Cloudy,Moderate,5,Wednesday,19,Summer,1
+ACC6782,2022-01-08,Hyderabad,Truck,Over-speeding,Clear,Fatal,4,Wednesday,16,Winter,2
+ACC6293,2022-07-30,Surat,Bike,Distracted driving,Windy,Minor,1,Tuesday,1,Winter,5
+ACC7893,2023-11-23,Kolkata,Car,Road rage,Foggy,Severe,4,Tuesday,17,Monsoon,5
+ACC8824,2024-11-13,Chennai,Car,Weather conditions,Clear,Moderate,1,Thursday,4,Summer,8
+ACC1879,2023-07-14,Hyderabad,Bike,Drunk driving,Clear,Fatal,6,Thursday,9,Monsoon,10
+ACC2371,2022-12-01,Hyderabad,Bike,Over-speeding,Clear,Moderate,6,Saturday,9,Summer,5
+ACC3471,2022-07-28,Hyderabad,Truck,Road rage,Clear,Severe,1,Sunday,18,Winter,4
+ACC6172,2024-02-19,Kolkata,Van,Over-speeding,Cloudy,Minor,3,Thursday,14,Monsoon,3
+ACC2094,2021-04-30,Chennai,Auto,Signal violation,Clear,Severe,4,Saturday,12,Winter,5
+ACC5380,2024-04-26,Surat,Car,Over-speeding,Clear,Moderate,5,Tuesday,17,Summer,5
+ACC3876,2020-02-13,Surat,Bike,Distracted driving,Clear,Minor,2,Friday,17,Winter,7
+ACC2591,2020-11-14,Chennai,Auto,Red light jumping,Foggy,Fatal,3,Sunday,17,Summer,4
+ACC3090,2022-05-09,Delhi,Bus,Red light jumping,Stormy,Fatal,1,Saturday,12,Summer,1
+ACC8658,2020-06-02,Pune,Truck,Weather conditions,Cloudy,Severe,6,Wednesday,3,Monsoon,3
+ACC2444,2024-02-16,Chennai,Bike,Drunk driving,Cloudy,Moderate,6,Saturday,15,Monsoon,9
+ACC7330,2021-12-24,Chennai,Bus,Weather conditions,Cloudy,Severe,6,Thursday,2,Winter,9
+ACC1928,2020-06-22,Surat,Car,Weather conditions,Rainy,Severe,2,Saturday,23,Winter,7
+ACC1225,2020-07-03,Kolkata,Bike,Drunk driving,Cloudy,Minor,3,Friday,8,Monsoon,1
+ACC7402,2020-04-19,Ahmedabad,Van,Over-speeding,Foggy,Severe,3,Monday,9,Summer,5
+ACC6968,2021-12-19,Surat,Van,Over-speeding,Rainy,Fatal,4,Thursday,8,Winter,3
+ACC2530,2023-03-29,Jaipur,Bus,Signal violation,Rainy,Moderate,4,Tuesday,3,Winter,9
+ACC3304,2023-01-27,Hyderabad,Bus,Distracted driving,Foggy,Minor,2,Saturday,15,Winter,4
+ACC1516,2020-04-15,Bangalore,Car,Red light jumping,Windy,Moderate,3,Sunday,1,Winter,2
+ACC3961,2022-07-12,Mumbai,Car,Road rage,Stormy,Moderate,2,Tuesday,3,Monsoon,1
+ACC2018,2021-11-30,Hyderabad,Bike,Road rage,Rainy,Severe,3,Sunday,11,Monsoon,1
+ACC3499,2023-03-01,Hyderabad,Bus,Over-speeding,Foggy,Severe,6,Wednesday,4,Summer,4
+ACC3149,2020-06-13,Hyderabad,Truck,Weather conditions,Foggy,Fatal,1,Saturday,4,Monsoon,3
+ACC8656,2024-12-09,Bangalore,Car,Drunk driving,Windy,Severe,2,Wednesday,19,Monsoon,7
+ACC9032,2022-04-02,Surat,Bus,Over-speeding,Clear,Fatal,5,Tuesday,23,Summer,5
+ACC5384,2024-04-28,Surat,Bike,Signal violation,Clear,Fatal,3,Sunday,20,Winter,10
+ACC3655,2023-12-27,Hyderabad,Bus,Weather conditions,Windy,Severe,4,Wednesday,14,Summer,9
+ACC2141,2024-04-12,Ahmedabad,Van,Signal violation,Foggy,Moderate,1,Sunday,10,Winter,3
+ACC1596,2023-12-09,Mumbai,Van,Over-speeding,Clear,Minor,5,Wednesday,20,Monsoon,2
+ACC5409,2023-05-26,Mumbai,Bike,Drunk driving,Rainy,Moderate,6,Wednesday,0,Summer,7
+ACC7169,2020-06-09,Kolkata,Truck,Red light jumping,Rainy,Minor,6,Tuesday,8,Winter,1
+ACC6342,2020-01-25,Chennai,Car,Drunk driving,Rainy,Severe,2,Tuesday,7,Summer,5
+ACC8722,2023-07-15,Kolkata,Auto,Weather conditions,Rainy,Fatal,3,Wednesday,10,Summer,9
+ACC4013,2022-08-12,Pune,Auto,Road rage,Cloudy,Severe,2,Wednesday,0,Monsoon,8
+ACC4526,2023-09-01,Jaipur,Car,Drunk driving,Clear,Fatal,4,Wednesday,18,Winter,9
+ACC2897,2020-10-22,Chennai,Auto,Road rage,Foggy,Minor,4,Saturday,23,Winter,6
+ACC1734,2024-05-10,Hyderabad,Auto,Weather conditions,Clear,Fatal,4,Friday,13,Winter,7
+ACC8755,2021-02-03,Bangalore,Bus,Weather conditions,Clear,Moderate,6,Tuesday,1,Monsoon,9
+ACC8198,2023-10-29,Jaipur,Truck,Signal violation,Rainy,Fatal,6,Sunday,1,Summer,10
+ACC2183,2020-08-22,Pune,Bike,Red light jumping,Windy,Severe,3,Sunday,11,Winter,7
+ACC5108,2023-08-17,Ahmedabad,Bus,Weather conditions,Rainy,Severe,6,Tuesday,5,Winter,1
+ACC1074,2020-10-23,Chennai,Truck,Drunk driving,Windy,Minor,2,Sunday,4,Summer,1
+ACC7318,2024-09-08,Kolkata,Auto,Drunk driving,Foggy,Minor,2,Saturday,17,Monsoon,5
+ACC1326,2022-02-10,Surat,Auto,Weather conditions,Rainy,Moderate,2,Thursday,20,Winter,1
+ACC7162,2024-01-25,Hyderabad,Bike,Road rage,Rainy,Severe,1,Tuesday,13,Monsoon,1
+ACC5132,2022-07-27,Chennai,Bus,Drunk driving,Windy,Fatal,5,Sunday,18,Summer,6
+ACC7851,2020-01-07,Hyderabad,Car,Weather conditions,Clear,Minor,2,Friday,7,Monsoon,2
+ACC7182,2023-03-14,Delhi,Bus,Signal violation,Foggy,Severe,6,Thursday,1,Winter,9
+ACC5058,2024-10-02,Hyderabad,Car,Signal violation,Rainy,Moderate,3,Tuesday,12,Winter,9
+ACC3033,2020-10-01,Jaipur,Bike,Signal violation,Foggy,Minor,2,Monday,16,Winter,5
+ACC8236,2024-10-31,Jaipur,Auto,Red light jumping,Clear,Severe,3,Friday,4,Summer,6
+ACC4463,2024-08-15,Jaipur,Bike,Drunk driving,Clear,Fatal,6,Tuesday,16,Winter,9
+ACC6163,2024-03-03,Pune,Auto,Distracted driving,Stormy,Fatal,6,Thursday,22,Winter,2
+ACC8174,2024-01-20,Bangalore,Bike,Red light jumping,Stormy,Moderate,5,Saturday,21,Summer,1
+ACC1687,2024-12-23,Hyderabad,Bus,Red light jumping,Cloudy,Minor,2,Sunday,9,Summer,7
+ACC2714,2020-01-15,Ahmedabad,Bike,Distracted driving,Rainy,Moderate,6,Wednesday,8,Winter,4
+ACC5057,2021-05-02,Bangalore,Bike,Signal violation,Rainy,Minor,5,Monday,22,Summer,8
+ACC8181,2020-10-31,Pune,Van,Distracted driving,Cloudy,Fatal,6,Monday,12,Summer,6
+ACC4181,2021-09-08,Surat,Car,Distracted driving,Cloudy,Minor,5,Monday,2,Monsoon,7
+ACC4981,2023-11-20,Chennai,Truck,Drunk driving,Foggy,Severe,4,Monday,6,Winter,6
+ACC9075,2021-10-06,Mumbai,Car,Distracted driving,Stormy,Moderate,4,Saturday,6,Monsoon,4
+ACC8068,2023-12-17,Bangalore,Car,Weather conditions,Stormy,Moderate,6,Monday,19,Summer,5
+ACC7126,2022-10-10,Kolkata,Bike,Red light jumping,Foggy,Fatal,5,Friday,16,Monsoon,10
+ACC9586,2023-06-23,Hyderabad,Bus,Over-speeding,Stormy,Fatal,6,Wednesday,16,Winter,9
+ACC7866,2020-04-28,Pune,Bus,Red light jumping,Stormy,Moderate,2,Saturday,3,Summer,5
+ACC5334,2023-12-13,Hyderabad,Bike,Road rage,Stormy,Moderate,6,Thursday,8,Winter,5
+ACC1290,2023-02-16,Chennai,Car,Over-speeding,Windy,Fatal,4,Saturday,9,Winter,6
+ACC3051,2024-05-13,Bangalore,Car,Red light jumping,Foggy,Fatal,3,Wednesday,16,Monsoon,7
+ACC8911,2024-05-10,Bangalore,Bus,Weather conditions,Rainy,Fatal,6,Monday,4,Monsoon,6
+ACC2823,2024-11-06,Chennai,Truck,Distracted driving,Foggy,Minor,2,Friday,1,Winter,5
+ACC5766,2020-02-01,Kolkata,Bike,Over-speeding,Windy,Moderate,1,Saturday,12,Winter,1
+ACC6022,2021-10-04,Delhi,Bus,Road rage,Foggy,Moderate,6,Wednesday,11,Winter,6
+ACC9403,2020-01-21,Chennai,Truck,Over-speeding,Foggy,Fatal,6,Tuesday,18,Winter,3
+ACC2771,2023-10-01,Mumbai,Truck,Distracted driving,Rainy,Minor,3,Saturday,19,Monsoon,8
+ACC5776,2021-07-16,Delhi,Bus,Drunk driving,Stormy,Moderate,4,Tuesday,22,Monsoon,8
+ACC2636,2023-12-29,Pune,Auto,Over-speeding,Rainy,Moderate,6,Tuesday,23,Summer,5
+ACC8980,2021-05-01,Bangalore,Van,Weather conditions,Cloudy,Minor,6,Thursday,20,Winter,3
+ACC3569,2020-10-02,Delhi,Car,Red light jumping,Rainy,Moderate,3,Saturday,23,Winter,6
+ACC5335,2020-05-24,Delhi,Bus,Weather conditions,Foggy,Severe,5,Wednesday,19,Monsoon,2
+ACC9489,2021-10-26,Mumbai,Bike,Distracted driving,Cloudy,Minor,5,Friday,5,Monsoon,1
+ACC5210,2022-09-09,Hyderabad,Bike,Red light jumping,Stormy,Severe,3,Wednesday,5,Winter,2
+ACC7500,2024-05-03,Delhi,Bus,Distracted driving,Rainy,Minor,4,Sunday,0,Monsoon,9
+ACC4735,2023-05-12,Bangalore,Van,Signal violation,Stormy,Fatal,4,Saturday,12,Summer,5
+ACC4551,2023-08-09,Ahmedabad,Car,Signal violation,Stormy,Severe,4,Saturday,6,Winter,8
+ACC3094,2020-02-04,Hyderabad,Car,Distracted driving,Clear,Minor,1,Tuesday,8,Winter,6
+ACC3571,2023-11-21,Kolkata,Car,Weather conditions,Cloudy,Moderate,4,Wednesday,5,Summer,10
+ACC8919,2022-09-28,Ahmedabad,Van,Distracted driving,Windy,Moderate,5,Monday,14,Winter,1
+ACC8307,2021-02-07,Pune,Bike,Red light jumping,Windy,Fatal,6,Saturday,14,Summer,10
+ACC8832,2023-05-20,Pune,Truck,Drunk driving,Foggy,Fatal,6,Sunday,3,Summer,7
+ACC7412,2021-12-04,Mumbai,Truck,Weather conditions,Windy,Moderate,5,Thursday,18,Summer,8
+ACC2435,2024-03-07,Kolkata,Car,Red light jumping,Rainy,Minor,4,Monday,3,Monsoon,10
+ACC7619,2024-10-28,Chennai,Bike,Red light jumping,Windy,Moderate,5,Sunday,3,Summer,5
+ACC6587,2021-06-17,Bangalore,Van,Over-speeding,Rainy,Moderate,6,Monday,23,Winter,4
+ACC4129,2021-01-25,Delhi,Auto,Road rage,Cloudy,Minor,4,Friday,6,Summer,9
+ACC8802,2022-03-29,Ahmedabad,Auto,Road rage,Windy,Severe,1,Tuesday,6,Summer,6
+ACC8734,2021-08-13,Pune,Car,Red light jumping,Cloudy,Fatal,2,Sunday,21,Monsoon,7
+ACC5481,2021-12-23,Bangalore,Car,Road rage,Foggy,Fatal,6,Wednesday,20,Winter,7
+ACC8729,2022-01-22,Kolkata,Van,Road rage,Rainy,Minor,6,Wednesday,19,Winter,7
+ACC2792,2024-02-20,Delhi,Auto,Red light jumping,Windy,Fatal,3,Wednesday,3,Summer,8
+ACC4683,2024-01-07,Jaipur,Auto,Distracted driving,Cloudy,Fatal,2,Thursday,18,Winter,1
+ACC8667,2024-10-03,Bangalore,Van,Weather conditions,Rainy,Fatal,6,Monday,13,Winter,8
+ACC1618,2021-10-31,Ahmedabad,Bike,Signal violation,Foggy,Moderate,3,Tuesday,9,Monsoon,4
+ACC3736,2021-03-31,Jaipur,Auto,Weather conditions,Windy,Moderate,4,Saturday,10,Monsoon,10
+ACC5416,2021-09-02,Mumbai,Truck,Red light jumping,Windy,Minor,3,Sunday,14,Summer,2
+ACC4177,2023-01-18,Hyderabad,Car,Weather conditions,Rainy,Minor,1,Saturday,7,Monsoon,3
+ACC6524,2022-04-10,Chennai,Bus,Signal violation,Cloudy,Severe,4,Monday,2,Winter,10
+ACC5721,2022-06-03,Kolkata,Car,Distracted driving,Clear,Minor,1,Wednesday,17,Monsoon,6
+ACC2075,2023-12-12,Bangalore,Auto,Red light jumping,Foggy,Moderate,4,Saturday,13,Summer,5
+ACC9429,2022-06-24,Mumbai,Auto,Over-speeding,Windy,Minor,3,Sunday,14,Monsoon,4
+ACC8238,2024-11-07,Jaipur,Bus,Signal violation,Foggy,Minor,1,Monday,9,Winter,2
+ACC1099,2023-07-15,Surat,Bike,Weather conditions,Rainy,Severe,5,Saturday,15,Summer,8
+ACC5482,2020-03-29,Surat,Bus,Road rage,Clear,Moderate,6,Thursday,1,Summer,5
+ACC6945,2020-09-30,Mumbai,Car,Distracted driving,Cloudy,Severe,2,Thursday,12,Winter,7
+ACC9943,2021-04-04,Ahmedabad,Bus,Weather conditions,Rainy,Minor,1,Thursday,4,Summer,8
+ACC6658,2020-08-07,Jaipur,Van,Distracted driving,Rainy,Severe,3,Friday,2,Winter,10
+ACC1382,2024-08-05,Jaipur,Bus,Over-speeding,Cloudy,Minor,5,Monday,21,Winter,2
+ACC1187,2022-10-22,Pune,Van,Weather conditions,Windy,Fatal,5,Wednesday,14,Monsoon,9
+ACC2003,2022-08-17,Chennai,Car,Over-speeding,Cloudy,Moderate,5,Saturday,7,Summer,4
+ACC5552,2020-05-30,Kolkata,Van,Distracted driving,Stormy,Minor,5,Thursday,16,Winter,8
+ACC4343,2024-03-13,Bangalore,Auto,Signal violation,Windy,Minor,3,Saturday,7,Summer,4
+ACC7163,2023-01-27,Kolkata,Bike,Over-speeding,Rainy,Minor,2,Sunday,20,Summer,7
+ACC1273,2022-05-05,Bangalore,Bus,Road rage,Windy,Minor,4,Saturday,12,Winter,9
+ACC7952,2021-04-20,Mumbai,Bike,Distracted driving,Foggy,Minor,5,Sunday,15,Winter,2
+ACC1536,2022-05-05,Bangalore,Bike,Drunk driving,Rainy,Minor,5,Saturday,21,Winter,3
+ACC1151,2022-01-24,Mumbai,Bike,Distracted driving,Rainy,Fatal,2,Saturday,12,Monsoon,1
+ACC4506,2023-11-09,Hyderabad,Bike,Red light jumping,Stormy,Severe,4,Wednesday,13,Summer,3
+ACC1914,2023-01-22,Delhi,Bus,Drunk driving,Windy,Minor,1,Monday,13,Summer,7
+ACC1234,2022-02-04,Surat,Truck,Red light jumping,Rainy,Moderate,6,Thursday,16,Monsoon,3
+ACC4200,2021-07-18,Delhi,Car,Road rage,Stormy,Minor,5,Sunday,6,Winter,10
+ACC2136,2023-08-01,Mumbai,Bus,Red light jumping,Windy,Moderate,2,Sunday,14,Summer,9
+ACC9189,2024-04-15,Bangalore,Bike,Drunk driving,Cloudy,Fatal,6,Tuesday,3,Summer,2
+ACC2708,2020-08-28,Ahmedabad,Bus,Drunk driving,Rainy,Fatal,1,Saturday,2,Summer,7
+ACC1715,2024-07-11,Bangalore,Auto,Over-speeding,Clear,Severe,5,Wednesday,22,Monsoon,9
+ACC9292,2024-04-25,Jaipur,Bus,Over-speeding,Cloudy,Fatal,5,Thursday,8,Winter,10
+ACC9678,2023-06-12,Pune,Van,Road rage,Stormy,Fatal,6,Thursday,6,Summer,10
+ACC7043,2024-10-13,Pune,Car,Drunk driving,Clear,Moderate,4,Wednesday,11,Winter,3
+ACC7561,2024-05-08,Delhi,Bus,Road rage,Windy,Fatal,6,Tuesday,22,Monsoon,6
+ACC9928,2022-08-02,Surat,Bike,Distracted driving,Clear,Fatal,1,Wednesday,0,Monsoon,5
+ACC1278,2021-07-24,Bangalore,Van,Weather conditions,Rainy,Severe,3,Sunday,13,Summer,1
+ACC3815,2022-02-21,Jaipur,Car,Distracted driving,Foggy,Minor,4,Wednesday,15,Summer,2
+ACC8344,2022-04-06,Mumbai,Van,Red light jumping,Rainy,Minor,1,Tuesday,22,Monsoon,7
+ACC8818,2020-08-01,Hyderabad,Bike,Over-speeding,Clear,Minor,6,Saturday,7,Monsoon,7
+ACC1181,2020-03-14,Chennai,Car,Signal violation,Rainy,Minor,6,Friday,23,Summer,7
+ACC7705,2024-04-07,Kolkata,Bus,Weather conditions,Cloudy,Moderate,3,Saturday,13,Winter,4
+ACC5706,2024-10-21,Surat,Bike,Distracted driving,Foggy,Severe,4,Friday,11,Summer,2
+ACC8676,2023-11-20,Mumbai,Bike,Red light jumping,Cloudy,Minor,5,Wednesday,3,Monsoon,10
+ACC9924,2021-07-24,Delhi,Van,Distracted driving,Windy,Fatal,3,Wednesday,19,Monsoon,9
+ACC6359,2022-12-22,Bangalore,Van,Signal violation,Windy,Fatal,4,Friday,4,Monsoon,7
+ACC7195,2022-03-31,Hyderabad,Auto,Weather conditions,Foggy,Fatal,1,Thursday,13,Monsoon,6
+ACC6116,2023-06-07,Chennai,Van,Distracted driving,Foggy,Fatal,2,Sunday,6,Monsoon,2
+ACC9233,2023-05-18,Hyderabad,Bus,Distracted driving,Cloudy,Severe,2,Friday,7,Monsoon,3
+ACC8350,2024-04-06,Delhi,Truck,Red light jumping,Windy,Severe,1,Friday,11,Summer,5
+ACC5303,2024-06-13,Bangalore,Car,Red light jumping,Stormy,Severe,6,Friday,10,Monsoon,8
+ACC7191,2021-03-23,Surat,Bike,Road rage,Clear,Severe,3,Wednesday,23,Monsoon,10
+ACC7426,2021-11-14,Bangalore,Car,Red light jumping,Stormy,Moderate,4,Tuesday,3,Monsoon,10
+ACC1441,2022-11-28,Pune,Bike,Over-speeding,Stormy,Moderate,4,Tuesday,4,Monsoon,1
+ACC2265,2022-04-03,Chennai,Car,Weather conditions,Stormy,Moderate,5,Wednesday,5,Summer,1
+ACC7501,2023-04-02,Hyderabad,Auto,Road rage,Foggy,Severe,2,Thursday,19,Summer,1
+ACC1448,2024-01-20,Mumbai,Bus,Weather conditions,Stormy,Moderate,3,Sunday,7,Monsoon,9
+ACC4403,2023-02-06,Mumbai,Car,Over-speeding,Foggy,Fatal,6,Monday,19,Monsoon,6
+ACC9442,2022-09-10,Hyderabad,Auto,Distracted driving,Stormy,Moderate,1,Wednesday,13,Summer,4
+ACC9145,2021-03-12,Ahmedabad,Bike,Over-speeding,Windy,Moderate,1,Saturday,1,Summer,9
+ACC7545,2021-09-19,Ahmedabad,Car,Drunk driving,Clear,Moderate,6,Thursday,13,Winter,3
+ACC9202,2024-10-31,Jaipur,Bus,Signal violation,Stormy,Moderate,3,Friday,1,Summer,9
+ACC9250,2023-02-08,Surat,Truck,Red light jumping,Cloudy,Severe,2,Sunday,15,Winter,7
+ACC1422,2023-06-03,Kolkata,Auto,Red light jumping,Cloudy,Minor,4,Wednesday,12,Summer,4
+ACC3803,2020-11-16,Delhi,Bus,Signal violation,Foggy,Severe,5,Saturday,19,Winter,8
+ACC4808,2022-04-08,Jaipur,Bus,Weather conditions,Rainy,Moderate,1,Sunday,11,Winter,6
+ACC4058,2020-05-08,Bangalore,Car,Red light jumping,Foggy,Fatal,1,Saturday,5,Monsoon,8
+ACC3458,2022-02-27,Surat,Van,Over-speeding,Clear,Fatal,1,Tuesday,17,Winter,8
+ACC1287,2020-10-30,Mumbai,Van,Road rage,Clear,Fatal,3,Saturday,0,Winter,3
+ACC7114,2022-10-08,Surat,Bus,Red light jumping,Rainy,Minor,3,Wednesday,8,Summer,4
+ACC9232,2023-05-14,Surat,Car,Drunk driving,Stormy,Minor,5,Wednesday,17,Summer,3
+ACC2795,2023-03-11,Bangalore,Bike,Distracted driving,Windy,Severe,2,Thursday,10,Winter,2
+ACC9534,2021-04-05,Kolkata,Bus,Red light jumping,Clear,Fatal,2,Friday,17,Summer,9
+ACC4985,2023-05-13,Kolkata,Auto,Red light jumping,Windy,Minor,1,Tuesday,22,Monsoon,5
+ACC2816,2023-07-30,Bangalore,Bike,Signal violation,Windy,Minor,6,Thursday,9,Summer,1
+ACC3931,2022-06-28,Ahmedabad,Truck,Signal violation,Rainy,Moderate,4,Friday,23,Monsoon,5
+ACC6325,2023-11-03,Jaipur,Van,Red light jumping,Stormy,Fatal,5,Monday,22,Monsoon,5
+ACC7472,2024-09-02,Jaipur,Bike,Signal violation,Foggy,Minor,4,Thursday,16,Winter,5
+ACC9323,2020-01-04,Delhi,Bus,Over-speeding,Stormy,Minor,5,Monday,13,Winter,10
+ACC3680,2021-12-04,Jaipur,Car,Signal violation,Clear,Minor,4,Sunday,21,Summer,5
+ACC9874,2020-04-13,Chennai,Bus,Over-speeding,Stormy,Minor,6,Friday,21,Winter,1
+ACC7345,2024-10-28,Surat,Auto,Road rage,Windy,Severe,2,Thursday,18,Winter,10
+ACC3695,2022-08-22,Hyderabad,Bus,Drunk driving,Clear,Moderate,5,Sunday,13,Winter,3
+ACC1894,2023-12-07,Jaipur,Van,Red light jumping,Stormy,Fatal,2,Wednesday,1,Winter,7
+ACC5636,2020-01-25,Mumbai,Auto,Weather conditions,Clear,Minor,4,Wednesday,9,Winter,10
+ACC3740,2022-09-25,Hyderabad,Truck,Red light jumping,Rainy,Moderate,4,Sunday,14,Summer,3
+ACC5363,2024-02-07,Bangalore,Car,Drunk driving,Cloudy,Fatal,2,Tuesday,21,Summer,2
+ACC3902,2023-09-12,Kolkata,Truck,Distracted driving,Clear,Minor,2,Wednesday,8,Winter,2
+ACC6882,2023-06-14,Mumbai,Bike,Over-speeding,Cloudy,Moderate,1,Sunday,21,Monsoon,8
+ACC8665,2022-01-13,Mumbai,Car,Drunk driving,Clear,Fatal,1,Friday,14,Winter,7
+ACC8466,2023-05-20,Pune,Auto,Weather conditions,Stormy,Moderate,1,Saturday,7,Summer,1
+ACC6807,2023-04-27,Delhi,Auto,Drunk driving,Windy,Minor,3,Saturday,14,Winter,4
+ACC5861,2024-07-29,Surat,Bike,Signal violation,Cloudy,Severe,4,Wednesday,12,Monsoon,2
+ACC8222,2023-10-17,Bangalore,Van,Distracted driving,Stormy,Moderate,2,Tuesday,16,Monsoon,7
+ACC5605,2022-10-08,Delhi,Auto,Red light jumping,Cloudy,Fatal,4,Friday,23,Winter,10
+ACC4899,2023-01-20,Delhi,Truck,Distracted driving,Rainy,Minor,5,Tuesday,12,Monsoon,2
+ACC9635,2020-09-04,Pune,Auto,Distracted driving,Foggy,Moderate,1,Tuesday,8,Summer,1
+ACC7620,2020-03-13,Chennai,Auto,Road rage,Cloudy,Minor,3,Sunday,1,Winter,1
+ACC7700,2023-08-08,Ahmedabad,Van,Distracted driving,Windy,Fatal,6,Tuesday,2,Summer,10
+ACC1219,2020-02-19,Pune,Van,Over-speeding,Windy,Minor,3,Tuesday,12,Monsoon,7
+ACC2681,2024-03-05,Kolkata,Van,Weather conditions,Stormy,Minor,6,Wednesday,17,Summer,1
+ACC9858,2020-07-31,Pune,Van,Weather conditions,Clear,Moderate,6,Wednesday,14,Monsoon,1
+ACC8695,2022-02-15,Surat,Bike,Signal violation,Windy,Moderate,6,Monday,2,Monsoon,5
+ACC2674,2021-03-25,Kolkata,Bike,Over-speeding,Stormy,Minor,6,Saturday,23,Summer,2
+ACC6124,2021-08-26,Chennai,Car,Weather conditions,Stormy,Minor,5,Tuesday,9,Summer,5
+ACC4414,2021-07-26,Hyderabad,Bus,Over-speeding,Stormy,Severe,1,Sunday,13,Monsoon,4
+ACC3413,2023-09-06,Ahmedabad,Van,Road rage,Rainy,Minor,1,Wednesday,9,Winter,2
+ACC9057,2022-12-28,Mumbai,Bike,Red light jumping,Clear,Fatal,2,Tuesday,20,Winter,8
+ACC4775,2021-12-09,Delhi,Bike,Weather conditions,Cloudy,Minor,4,Friday,13,Monsoon,8
+ACC5537,2024-02-28,Bangalore,Bus,Over-speeding,Foggy,Severe,6,Tuesday,1,Winter,6
+ACC6359,2020-06-21,Bangalore,Bike,Road rage,Stormy,Minor,4,Saturday,1,Winter,8
+ACC6905,2023-12-20,Jaipur,Bus,Distracted driving,Rainy,Fatal,1,Sunday,6,Summer,10
+ACC6658,2023-09-21,Chennai,Van,Drunk driving,Windy,Moderate,1,Friday,7,Winter,6
+ACC6117,2023-03-10,Hyderabad,Truck,Signal violation,Windy,Moderate,1,Saturday,11,Summer,3
+ACC8717,2022-03-24,Bangalore,Bike,Drunk driving,Stormy,Fatal,6,Sunday,16,Summer,8
+ACC8206,2020-01-21,Chennai,Auto,Signal violation,Windy,Severe,6,Monday,9,Winter,9
+ACC1800,2024-10-05,Surat,Bike,Over-speeding,Cloudy,Moderate,2,Monday,5,Winter,7
+ACC7342,2023-03-27,Hyderabad,Bus,Road rage,Rainy,Severe,6,Saturday,6,Monsoon,3
+ACC2031,2022-11-30,Mumbai,Bus,Distracted driving,Clear,Fatal,4,Thursday,3,Monsoon,2
+ACC4574,2024-08-22,Jaipur,Bus,Road rage,Stormy,Moderate,1,Saturday,8,Monsoon,4
+ACC4631,2024-03-14,Jaipur,Bus,Distracted driving,Stormy,Moderate,2,Tuesday,0,Monsoon,1
+ACC6688,2022-05-21,Jaipur,Van,Road rage,Cloudy,Severe,6,Friday,0,Summer,2
+ACC9951,2024-11-28,Hyderabad,Bike,Signal violation,Rainy,Moderate,1,Saturday,13,Winter,4
+ACC2056,2022-05-22,Hyderabad,Bus,Weather conditions,Stormy,Minor,2,Saturday,11,Summer,6
+ACC6024,2024-08-12,Pune,Car,Drunk driving,Stormy,Severe,5,Monday,16,Monsoon,9
+ACC4849,2022-11-23,Kolkata,Van,Distracted driving,Rainy,Severe,1,Saturday,1,Winter,7
+ACC3431,2021-11-15,Hyderabad,Bus,Weather conditions,Cloudy,Fatal,2,Saturday,9,Summer,8
+ACC4451,2023-08-18,Bangalore,Car,Road rage,Cloudy,Minor,1,Thursday,4,Summer,4
+ACC6449,2022-12-18,Mumbai,Car,Over-speeding,Stormy,Minor,4,Sunday,13,Monsoon,6
+ACC2630,2022-02-28,Chennai,Bike,Red light jumping,Cloudy,Severe,5,Friday,16,Winter,6
+ACC3247,2023-06-08,Jaipur,Truck,Over-speeding,Rainy,Moderate,4,Sunday,13,Winter,1
+ACC8368,2022-11-16,Delhi,Bus,Distracted driving,Cloudy,Fatal,4,Thursday,23,Monsoon,3
+ACC1757,2020-11-22,Hyderabad,Truck,Red light jumping,Windy,Severe,6,Thursday,15,Winter,4
+ACC2703,2024-02-06,Ahmedabad,Bus,Red light jumping,Stormy,Severe,4,Sunday,5,Monsoon,5
+ACC7529,2021-02-07,Kolkata,Van,Over-speeding,Cloudy,Moderate,4,Sunday,0,Monsoon,2
+ACC6472,2022-08-30,Surat,Bike,Weather conditions,Foggy,Moderate,3,Saturday,5,Monsoon,10
+ACC4239,2022-04-25,Jaipur,Bus,Distracted driving,Stormy,Fatal,4,Monday,8,Monsoon,9
+ACC6863,2024-04-04,Ahmedabad,Van,Red light jumping,Windy,Fatal,1,Saturday,0,Monsoon,5
+ACC1761,2024-05-08,Kolkata,Car,Weather conditions,Stormy,Moderate,3,Saturday,1,Monsoon,3
+ACC6193,2021-06-17,Ahmedabad,Van,Over-speeding,Stormy,Severe,2,Tuesday,3,Winter,5
+ACC3979,2022-08-07,Jaipur,Car,Red light jumping,Stormy,Minor,6,Sunday,11,Summer,3
+ACC1485,2021-07-31,Jaipur,Bike,Signal violation,Stormy,Severe,1,Sunday,4,Monsoon,10
+ACC6280,2022-01-06,Hyderabad,Car,Weather conditions,Rainy,Moderate,6,Monday,17,Monsoon,2
+ACC4051,2021-09-13,Hyderabad,Van,Road rage,Clear,Minor,2,Sunday,17,Monsoon,1
+ACC8765,2020-03-13,Ahmedabad,Bike,Red light jumping,Foggy,Fatal,5,Thursday,18,Winter,4
+ACC6796,2020-05-29,Ahmedabad,Van,Drunk driving,Foggy,Moderate,3,Thursday,5,Monsoon,8
+ACC1702,2021-12-06,Kolkata,Bike,Over-speeding,Foggy,Moderate,4,Monday,10,Summer,5
+ACC1143,2020-01-04,Ahmedabad,Bike,Red light jumping,Windy,Severe,6,Monday,14,Winter,6
+ACC4349,2023-01-08,Chennai,Car,Red light jumping,Windy,Moderate,6,Wednesday,4,Summer,4
+ACC4385,2023-05-01,Bangalore,Auto,Weather conditions,Rainy,Minor,3,Tuesday,17,Monsoon,6
+ACC2310,2022-09-26,Jaipur,Bike,Distracted driving,Foggy,Minor,3,Tuesday,3,Summer,5
+ACC9111,2021-08-06,Hyderabad,Auto,Weather conditions,Rainy,Severe,6,Thursday,20,Winter,3
+ACC6356,2021-12-16,Bangalore,Bike,Over-speeding,Cloudy,Severe,1,Tuesday,18,Monsoon,4
+ACC5460,2021-09-25,Mumbai,Van,Weather conditions,Clear,Fatal,4,Wednesday,5,Summer,1
+ACC6866,2021-12-12,Jaipur,Car,Signal violation,Windy,Fatal,5,Tuesday,2,Winter,4
+ACC9055,2022-07-04,Jaipur,Van,Road rage,Stormy,Minor,5,Wednesday,23,Winter,2
+ACC2025,2023-05-03,Mumbai,Auto,Distracted driving,Windy,Severe,2,Monday,13,Summer,4
+ACC8509,2024-04-22,Ahmedabad,Bus,Signal violation,Stormy,Severe,2,Friday,13,Summer,1
+ACC9461,2024-07-16,Surat,Bus,Road rage,Cloudy,Minor,4,Tuesday,15,Winter,1
+ACC3558,2022-04-30,Bangalore,Car,Distracted driving,Rainy,Minor,3,Saturday,17,Monsoon,2
+ACC4806,2021-05-01,Pune,Bus,Drunk driving,Cloudy,Fatal,6,Tuesday,14,Winter,9
+ACC8932,2021-12-31,Surat,Auto,Distracted driving,Windy,Severe,5,Sunday,7,Winter,8
+ACC8843,2022-06-04,Jaipur,Bike,Road rage,Stormy,Severe,1,Friday,1,Summer,4
+ACC4347,2021-07-09,Bangalore,Truck,Drunk driving,Clear,Fatal,3,Monday,1,Monsoon,5
+ACC1003,2024-02-12,Delhi,Auto,Road rage,Windy,Minor,6,Thursday,23,Monsoon,4
+ACC5836,2021-07-18,Chennai,Car,Road rage,Stormy,Moderate,3,Monday,20,Summer,6
+ACC4864,2022-03-01,Mumbai,Auto,Distracted driving,Cloudy,Severe,4,Tuesday,21,Summer,8
+ACC8378,2024-01-11,Hyderabad,Auto,Over-speeding,Windy,Minor,4,Friday,4,Summer,8
+ACC9625,2021-03-22,Chennai,Van,Drunk driving,Stormy,Fatal,6,Monday,3,Monsoon,10
+ACC5016,2022-12-19,Bangalore,Bus,Signal violation,Rainy,Severe,2,Tuesday,22,Monsoon,9
+ACC5511,2020-01-08,Delhi,Truck,Weather conditions,Stormy,Severe,2,Friday,5,Summer,2
+ACC3000,2023-10-16,Jaipur,Bus,Red light jumping,Clear,Severe,1,Thursday,16,Summer,5
+ACC1154,2024-02-09,Delhi,Bike,Drunk driving,Foggy,Severe,3,Tuesday,8,Winter,6
+ACC2361,2021-10-14,Hyderabad,Bus,Signal violation,Stormy,Severe,2,Sunday,23,Summer,8
+ACC4449,2022-01-03,Pune,Bike,Distracted driving,Windy,Minor,1,Sunday,21,Summer,5
+ACC7502,2023-06-21,Pune,Car,Weather conditions,Foggy,Moderate,3,Tuesday,13,Summer,3
+ACC2384,2024-05-01,Kolkata,Van,Drunk driving,Rainy,Severe,3,Thursday,14,Monsoon,9
+ACC7823,2024-12-22,Hyderabad,Bike,Weather conditions,Cloudy,Fatal,2,Monday,18,Monsoon,1
+ACC5592,2020-09-05,Kolkata,Car,Drunk driving,Rainy,Minor,5,Saturday,2,Winter,8
+ACC9036,2020-01-09,Jaipur,Van,Drunk driving,Stormy,Severe,5,Saturday,21,Summer,7
+ACC7857,2020-12-29,Bangalore,Bike,Weather conditions,Rainy,Fatal,3,Tuesday,1,Summer,1
+ACC5900,2024-05-31,Bangalore,Auto,Red light jumping,Cloudy,Moderate,5,Sunday,14,Winter,8
+ACC1756,2023-11-15,Bangalore,Bus,Drunk driving,Cloudy,Fatal,3,Friday,9,Summer,6
+ACC7133,2022-07-16,Mumbai,Auto,Red light jumping,Rainy,Moderate,2,Saturday,18,Winter,7
+ACC9534,2022-10-13,Kolkata,Bike,Weather conditions,Windy,Fatal,5,Wednesday,3,Summer,10
+ACC7199,2020-06-10,Mumbai,Van,Road rage,Clear,Fatal,1,Wednesday,8,Summer,1
+ACC9528,2022-08-11,Chennai,Van,Drunk driving,Stormy,Severe,4,Tuesday,17,Monsoon,8
+ACC8495,2020-06-22,Chennai,Car,Drunk driving,Clear,Minor,2,Saturday,8,Summer,1
+ACC1663,2023-09-19,Mumbai,Car,Signal violation,Foggy,Severe,4,Sunday,17,Monsoon,7
+ACC5531,2022-11-22,Kolkata,Auto,Distracted driving,Clear,Moderate,3,Thursday,3,Winter,5
+ACC6912,2022-10-03,Bangalore,Auto,Signal violation,Clear,Moderate,5,Monday,14,Winter,5
+ACC1131,2024-01-15,Pune,Bus,Distracted driving,Windy,Severe,2,Thursday,10,Summer,6
+ACC7134,2023-04-13,Hyderabad,Auto,Red light jumping,Stormy,Severe,1,Monday,3,Monsoon,1
+ACC5813,2020-12-10,Kolkata,Truck,Weather conditions,Clear,Severe,3,Tuesday,11,Winter,5
+ACC4502,2022-04-04,Bangalore,Bike,Distracted driving,Foggy,Severe,2,Saturday,14,Summer,7
+ACC6323,2022-02-20,Jaipur,Auto,Signal violation,Windy,Severe,3,Monday,22,Winter,5
+ACC7383,2020-05-27,Hyderabad,Bike,Red light jumping,Rainy,Minor,1,Wednesday,0,Monsoon,9
+ACC4252,2024-05-01,Hyderabad,Car,Red light jumping,Stormy,Moderate,2,Thursday,2,Winter,7
+ACC5339,2024-06-07,Kolkata,Car,Red light jumping,Clear,Fatal,2,Friday,9,Winter,7
+ACC5610,2023-11-15,Ahmedabad,Car,Red light jumping,Rainy,Fatal,5,Thursday,18,Summer,5
+ACC1300,2021-11-18,Mumbai,Bus,Signal violation,Windy,Moderate,1,Monday,19,Winter,4
+ACC2630,2024-11-12,Jaipur,Car,Over-speeding,Foggy,Fatal,1,Saturday,5,Monsoon,9
+ACC1567,2022-05-24,Mumbai,Car,Signal violation,Stormy,Severe,2,Thursday,0,Summer,1
+ACC5385,2021-08-02,Bangalore,Bus,Over-speeding,Rainy,Minor,3,Monday,9,Winter,4
+ACC7883,2024-12-14,Ahmedabad,Bike,Road rage,Foggy,Minor,5,Monday,10,Winter,3
+ACC6094,2020-07-26,Kolkata,Truck,Red light jumping,Cloudy,Fatal,1,Monday,7,Monsoon,7
+ACC5155,2022-11-16,Jaipur,Car,Distracted driving,Foggy,Minor,3,Thursday,20,Monsoon,7
+ACC9913,2024-01-01,Pune,Bike,Drunk driving,Rainy,Fatal,3,Thursday,17,Summer,3
+ACC7612,2022-11-16,Hyderabad,Bus,Over-speeding,Stormy,Fatal,4,Friday,8,Winter,4
+ACC4836,2023-06-06,Kolkata,Bus,Signal violation,Clear,Fatal,4,Friday,16,Winter,6
+ACC3580,2021-06-22,Hyderabad,Van,Distracted driving,Clear,Minor,4,Saturday,21,Monsoon,7
+ACC6474,2024-07-18,Chennai,Truck,Signal violation,Clear,Severe,4,Tuesday,6,Summer,7
+ACC7705,2020-04-29,Bangalore,Auto,Weather conditions,Cloudy,Moderate,2,Saturday,0,Monsoon,6
+ACC3676,2022-10-05,Surat,Bike,Distracted driving,Windy,Severe,5,Friday,14,Monsoon,10
+ACC7393,2024-12-02,Surat,Truck,Weather conditions,Foggy,Moderate,3,Sunday,22,Summer,7
+ACC2959,2023-09-18,Delhi,Truck,Distracted driving,Windy,Fatal,5,Monday,14,Monsoon,8
+ACC3478,2022-10-25,Mumbai,Bus,Over-speeding,Rainy,Minor,1,Saturday,3,Monsoon,10
+ACC3908,2021-08-07,Mumbai,Bus,Signal violation,Foggy,Severe,1,Wednesday,13,Monsoon,3
+ACC8023,2022-04-07,Ahmedabad,Van,Road rage,Stormy,Fatal,2,Sunday,22,Winter,8
+ACC6828,2024-06-14,Chennai,Bus,Drunk driving,Stormy,Minor,2,Monday,23,Winter,6
+ACC5273,2021-11-24,Chennai,Van,Signal violation,Rainy,Severe,4,Thursday,7,Summer,4
+ACC8448,2024-06-10,Chennai,Auto,Distracted driving,Stormy,Minor,4,Monday,21,Summer,2
+ACC7351,2024-04-12,Pune,Auto,Over-speeding,Windy,Severe,3,Monday,12,Monsoon,5
+ACC5647,2021-03-26,Chennai,Van,Road rage,Stormy,Fatal,3,Wednesday,1,Monsoon,9
+ACC9915,2021-04-16,Mumbai,Bike,Signal violation,Windy,Severe,4,Sunday,12,Monsoon,6
+ACC5213,2023-10-29,Ahmedabad,Bus,Drunk driving,Windy,Moderate,6,Monday,21,Monsoon,9
+ACC7733,2022-07-08,Hyderabad,Auto,Road rage,Stormy,Moderate,1,Thursday,16,Winter,8
+ACC9952,2021-11-24,Mumbai,Auto,Road rage,Cloudy,Minor,6,Wednesday,22,Summer,1
+ACC4957,2020-05-30,Chennai,Truck,Distracted driving,Foggy,Fatal,5,Monday,7,Summer,10
+ACC1905,2024-07-29,Kolkata,Bike,Road rage,Foggy,Severe,4,Saturday,23,Monsoon,5
+ACC9865,2022-05-26,Bangalore,Truck,Over-speeding,Stormy,Moderate,3,Thursday,23,Monsoon,4
+ACC6894,2021-07-20,Surat,Car,Road rage,Foggy,Moderate,1,Saturday,20,Monsoon,3
+ACC3541,2023-11-18,Ahmedabad,Car,Road rage,Windy,Minor,2,Monday,6,Summer,4
+ACC3625,2023-02-05,Pune,Auto,Drunk driving,Windy,Fatal,4,Sunday,22,Monsoon,3
+ACC8814,2024-11-10,Pune,Bus,Road rage,Foggy,Fatal,4,Monday,7,Winter,4
+ACC6572,2020-09-14,Pune,Bike,Drunk driving,Clear,Severe,4,Tuesday,3,Monsoon,5
+ACC5964,2020-09-29,Chennai,Bike,Signal violation,Clear,Moderate,5,Friday,12,Summer,2
+ACC5724,2023-09-10,Mumbai,Truck,Red light jumping,Rainy,Fatal,5,Tuesday,15,Monsoon,2
+ACC8041,2024-02-29,Bangalore,Bike,Distracted driving,Stormy,Moderate,1,Tuesday,5,Winter,1
+ACC8032,2021-03-13,Delhi,Car,Over-speeding,Windy,Minor,2,Wednesday,19,Winter,1
+ACC7467,2022-04-15,Bangalore,Bus,Road rage,Foggy,Fatal,5,Friday,5,Summer,2
+ACC7649,2023-10-09,Hyderabad,Bike,Signal violation,Stormy,Moderate,5,Thursday,2,Winter,1
+ACC1201,2020-02-01,Jaipur,Bus,Drunk driving,Clear,Minor,2,Tuesday,13,Summer,2
+ACC1025,2024-02-02,Pune,Truck,Over-speeding,Foggy,Moderate,1,Saturday,7,Monsoon,1
+ACC6068,2024-05-26,Bangalore,Auto,Distracted driving,Foggy,Minor,5,Sunday,12,Winter,1
+ACC2751,2022-01-08,Ahmedabad,Truck,Distracted driving,Clear,Severe,5,Wednesday,10,Monsoon,2
+ACC9436,2023-02-20,Ahmedabad,Car,Signal violation,Windy,Moderate,2,Wednesday,7,Monsoon,4
+ACC6343,2021-06-28,Surat,Truck,Over-speeding,Windy,Moderate,4,Wednesday,15,Monsoon,7
+ACC9466,2024-04-15,Surat,Bike,Distracted driving,Rainy,Severe,1,Monday,5,Summer,10
+ACC6047,2021-09-21,Jaipur,Bus,Road rage,Foggy,Minor,6,Wednesday,20,Winter,5
+ACC7326,2024-09-03,Chennai,Car,Over-speeding,Foggy,Moderate,3,Tuesday,16,Summer,5
+ACC9655,2020-04-05,Kolkata,Car,Drunk driving,Rainy,Moderate,2,Thursday,4,Winter,5
+ACC4304,2020-06-12,Delhi,Bike,Weather conditions,Rainy,Moderate,3,Thursday,20,Winter,3
+ACC2102,2023-03-21,Ahmedabad,Car,Distracted driving,Foggy,Severe,6,Tuesday,2,Summer,10
+ACC6019,2021-10-17,Delhi,Car,Red light jumping,Cloudy,Fatal,5,Saturday,19,Winter,4
+ACC1807,2024-01-18,Hyderabad,Van,Drunk driving,Rainy,Minor,1,Tuesday,2,Monsoon,4
+ACC2891,2021-02-24,Ahmedabad,Truck,Over-speeding,Foggy,Minor,3,Monday,21,Winter,1
+ACC1938,2022-11-29,Surat,Bus,Red light jumping,Clear,Severe,4,Sunday,2,Monsoon,4
+ACC5069,2021-09-15,Pune,Van,Over-speeding,Rainy,Fatal,5,Saturday,11,Winter,3
+ACC3913,2021-12-31,Jaipur,Auto,Distracted driving,Stormy,Severe,6,Saturday,10,Summer,4
+ACC6355,2020-05-18,Pune,Car,Weather conditions,Cloudy,Minor,3,Friday,8,Winter,10
+ACC3730,2024-09-30,Chennai,Bike,Distracted driving,Windy,Moderate,4,Monday,9,Winter,2
+ACC3422,2020-06-29,Hyderabad,Bus,Distracted driving,Rainy,Fatal,6,Wednesday,6,Summer,9
+ACC7281,2023-08-22,Ahmedabad,Van,Distracted driving,Clear,Fatal,3,Monday,17,Winter,4
+ACC2173,2022-07-25,Hyderabad,Auto,Over-speeding,Cloudy,Minor,4,Monday,17,Summer,2
+ACC5911,2020-02-14,Pune,Van,Road rage,Foggy,Fatal,3,Tuesday,18,Winter,4
+ACC6365,2023-06-28,Surat,Bike,Road rage,Clear,Moderate,3,Thursday,9,Monsoon,1
+ACC2717,2020-11-22,Jaipur,Van,Over-speeding,Clear,Severe,1,Saturday,6,Summer,2
+ACC3295,2022-10-22,Mumbai,Bus,Road rage,Stormy,Minor,6,Thursday,19,Summer,4
+ACC9680,2023-05-23,Chennai,Bike,Over-speeding,Cloudy,Severe,3,Saturday,11,Monsoon,10
+ACC8685,2023-04-28,Chennai,Bus,Distracted driving,Windy,Moderate,6,Monday,12,Summer,10
+ACC8337,2020-10-04,Bangalore,Auto,Signal violation,Cloudy,Moderate,2,Friday,19,Monsoon,5
+ACC7789,2023-08-01,Delhi,Bus,Red light jumping,Windy,Moderate,5,Friday,16,Summer,8
+ACC9140,2021-03-22,Surat,Truck,Red light jumping,Foggy,Fatal,2,Thursday,8,Monsoon,6
+ACC8288,2020-05-10,Surat,Bus,Distracted driving,Windy,Moderate,4,Monday,8,Summer,3
+ACC8297,2021-02-27,Kolkata,Auto,Road rage,Windy,Severe,1,Tuesday,12,Monsoon,1
+ACC4659,2023-10-17,Hyderabad,Bike,Red light jumping,Rainy,Moderate,1,Saturday,0,Winter,2
+ACC4227,2020-04-04,Bangalore,Bike,Drunk driving,Stormy,Severe,3,Saturday,3,Winter,6
+ACC2851,2020-03-07,Bangalore,Van,Over-speeding,Windy,Fatal,2,Tuesday,8,Monsoon,1
+ACC4001,2021-07-17,Delhi,Van,Weather conditions,Foggy,Moderate,6,Thursday,17,Summer,3
+ACC3846,2022-07-08,Mumbai,Bike,Red light jumping,Rainy,Fatal,6,Saturday,5,Winter,9
+ACC5895,2021-09-26,Ahmedabad,Truck,Road rage,Windy,Minor,1,Sunday,6,Monsoon,6
+ACC5700,2022-09-15,Chennai,Car,Drunk driving,Cloudy,Minor,3,Thursday,5,Winter,1
+ACC2597,2020-04-27,Bangalore,Car,Red light jumping,Windy,Fatal,3,Sunday,11,Summer,6
+ACC5503,2021-05-12,Delhi,Bus,Weather conditions,Stormy,Severe,1,Sunday,18,Monsoon,5
+ACC5715,2020-09-22,Delhi,Auto,Road rage,Windy,Minor,1,Wednesday,6,Monsoon,4
+ACC2740,2022-06-02,Hyderabad,Bike,Distracted driving,Stormy,Moderate,3,Sunday,13,Winter,9
+ACC9657,2022-02-20,Mumbai,Car,Weather conditions,Rainy,Fatal,6,Sunday,6,Monsoon,5
+ACC8798,2024-12-02,Mumbai,Car,Distracted driving,Windy,Severe,6,Tuesday,7,Summer,9
+ACC8999,2023-05-18,Hyderabad,Bus,Road rage,Windy,Minor,1,Tuesday,3,Winter,10
+ACC6226,2023-03-08,Delhi,Auto,Red light jumping,Stormy,Moderate,3,Monday,0,Monsoon,7
+ACC1801,2021-05-24,Kolkata,Van,Weather conditions,Cloudy,Minor,5,Wednesday,18,Summer,3
+ACC7592,2023-08-08,Chennai,Bus,Over-speeding,Cloudy,Fatal,3,Friday,11,Winter,7
+ACC2142,2024-02-04,Mumbai,Bus,Over-speeding,Foggy,Fatal,1,Friday,3,Monsoon,9
+ACC7113,2024-03-27,Bangalore,Bike,Signal violation,Foggy,Moderate,5,Thursday,20,Winter,6
+ACC4218,2023-09-13,Bangalore,Bus,Signal violation,Clear,Moderate,6,Thursday,21,Monsoon,6
+ACC5582,2021-01-07,Chennai,Bike,Red light jumping,Cloudy,Moderate,6,Saturday,16,Winter,2
+ACC6342,2024-07-17,Kolkata,Auto,Road rage,Cloudy,Minor,4,Tuesday,21,Winter,5
+ACC9404,2022-09-03,Pune,Car,Drunk driving,Rainy,Minor,4,Saturday,11,Winter,1
+ACC7774,2023-01-18,Pune,Van,Road rage,Rainy,Fatal,5,Thursday,16,Monsoon,8
+ACC7607,2020-10-31,Chennai,Auto,Distracted driving,Foggy,Fatal,3,Saturday,15,Winter,5
+ACC6216,2021-06-29,Bangalore,Truck,Drunk driving,Rainy,Fatal,4,Sunday,0,Winter,2
+ACC4211,2023-11-20,Surat,Van,Over-speeding,Stormy,Moderate,5,Wednesday,16,Summer,2
+ACC4547,2021-12-05,Mumbai,Bike,Road rage,Cloudy,Fatal,2,Wednesday,16,Summer,5
+ACC8262,2020-06-25,Chennai,Car,Over-speeding,Cloudy,Minor,4,Tuesday,6,Summer,6
+ACC7625,2024-07-29,Surat,Truck,Drunk driving,Windy,Minor,6,Wednesday,2,Monsoon,4
+ACC3657,2022-07-16,Hyderabad,Bike,Over-speeding,Stormy,Fatal,1,Thursday,7,Monsoon,9
+ACC4257,2020-07-30,Surat,Truck,Over-speeding,Windy,Minor,3,Tuesday,19,Summer,9
+ACC9499,2023-07-02,Bangalore,Bike,Drunk driving,Stormy,Fatal,6,Monday,11,Winter,1
+ACC8656,2020-05-29,Delhi,Truck,Red light jumping,Clear,Severe,6,Monday,21,Monsoon,1
+ACC7631,2020-11-01,Mumbai,Car,Red light jumping,Windy,Minor,6,Wednesday,10,Summer,3
+ACC7362,2024-09-21,Bangalore,Auto,Road rage,Stormy,Moderate,4,Saturday,11,Monsoon,6
+ACC9686,2022-06-25,Mumbai,Bike,Road rage,Windy,Severe,5,Friday,9,Summer,2
+ACC3593,2023-02-16,Pune,Truck,Over-speeding,Clear,Severe,2,Thursday,21,Summer,3
+ACC6646,2022-05-04,Kolkata,Bike,Distracted driving,Stormy,Moderate,3,Tuesday,12,Winter,8
+ACC4562,2024-10-16,Bangalore,Bus,Signal violation,Rainy,Minor,4,Thursday,8,Winter,7
+ACC7040,2024-08-18,Surat,Truck,Drunk driving,Stormy,Severe,3,Friday,3,Monsoon,1
+ACC2823,2024-09-03,Kolkata,Bike,Drunk driving,Clear,Severe,2,Wednesday,0,Monsoon,4
+ACC9974,2024-09-16,Ahmedabad,Car,Signal violation,Windy,Moderate,5,Friday,3,Monsoon,3
+ACC5558,2023-02-12,Ahmedabad,Bike,Distracted driving,Rainy,Fatal,1,Thursday,2,Winter,9
+ACC7799,2023-10-05,Chennai,Truck,Road rage,Clear,Moderate,3,Thursday,21,Summer,7
+ACC2571,2022-08-02,Jaipur,Truck,Distracted driving,Rainy,Moderate,2,Wednesday,22,Monsoon,7
+ACC7438,2022-06-01,Hyderabad,Bus,Drunk driving,Foggy,Moderate,6,Saturday,5,Winter,5
+ACC5988,2021-10-01,Mumbai,Truck,Signal violation,Stormy,Severe,5,Wednesday,9,Summer,4
+ACC6397,2020-03-22,Jaipur,Van,Signal violation,Stormy,Fatal,2,Thursday,8,Monsoon,2
+ACC3143,2021-04-15,Kolkata,Truck,Over-speeding,Clear,Minor,6,Thursday,15,Winter,2
+ACC7898,2021-02-08,Ahmedabad,Truck,Road rage,Stormy,Moderate,4,Friday,0,Summer,9
+ACC6230,2024-09-24,Hyderabad,Bus,Road rage,Windy,Minor,6,Monday,21,Winter,8
+ACC8530,2021-10-09,Ahmedabad,Bike,Road rage,Cloudy,Moderate,6,Monday,14,Winter,10
+ACC8125,2023-04-26,Hyderabad,Auto,Signal violation,Windy,Minor,5,Tuesday,3,Summer,1
+ACC4959,2021-04-12,Delhi,Bike,Distracted driving,Clear,Moderate,4,Saturday,21,Monsoon,2
+ACC1496,2021-08-07,Jaipur,Truck,Signal violation,Foggy,Fatal,6,Friday,9,Winter,3
+ACC3136,2023-02-24,Kolkata,Car,Weather conditions,Windy,Moderate,2,Monday,13,Summer,5
+ACC8308,2022-02-24,Pune,Car,Weather conditions,Foggy,Fatal,4,Friday,17,Winter,10
+ACC6290,2022-09-13,Kolkata,Car,Drunk driving,Stormy,Moderate,1,Tuesday,9,Monsoon,4
+ACC3078,2023-11-27,Hyderabad,Car,Road rage,Foggy,Minor,2,Saturday,14,Winter,4
+ACC9300,2021-12-13,Pune,Auto,Signal violation,Windy,Minor,5,Thursday,3,Monsoon,7
+ACC7157,2022-11-11,Jaipur,Bus,Red light jumping,Clear,Fatal,4,Wednesday,10,Winter,4
+ACC3581,2021-05-05,Jaipur,Bike,Signal violation,Windy,Minor,6,Sunday,2,Summer,2
+ACC9705,2024-12-26,Delhi,Truck,Signal violation,Windy,Minor,4,Thursday,16,Summer,10
+ACC2382,2022-11-14,Hyderabad,Bus,Road rage,Windy,Severe,6,Friday,21,Winter,10
+ACC7937,2024-09-19,Ahmedabad,Bus,Road rage,Clear,Minor,3,Monday,12,Monsoon,7
+ACC5685,2024-07-01,Hyderabad,Auto,Weather conditions,Clear,Severe,6,Saturday,11,Monsoon,10
+ACC3757,2022-07-01,Hyderabad,Bike,Red light jumping,Foggy,Minor,2,Sunday,18,Monsoon,4
+ACC7348,2021-10-25,Pune,Bike,Weather conditions,Rainy,Severe,4,Friday,4,Monsoon,6
+ACC2362,2024-10-17,Chennai,Bike,Over-speeding,Rainy,Minor,6,Tuesday,22,Monsoon,10
+ACC8919,2023-09-25,Jaipur,Bus,Drunk driving,Foggy,Severe,6,Wednesday,15,Summer,1
+ACC1754,2020-02-13,Surat,Van,Distracted driving,Stormy,Severe,2,Tuesday,23,Monsoon,2
+ACC7868,2023-03-13,Bangalore,Auto,Drunk driving,Windy,Fatal,1,Thursday,22,Monsoon,7
+ACC9173,2024-01-28,Chennai,Bus,Red light jumping,Windy,Fatal,1,Friday,19,Winter,3
+ACC4350,2022-04-28,Surat,Bus,Drunk driving,Rainy,Moderate,3,Friday,18,Monsoon,1
+ACC3314,2023-08-31,Mumbai,Van,Red light jumping,Foggy,Moderate,3,Thursday,12,Winter,9
+ACC9447,2020-02-12,Mumbai,Van,Weather conditions,Rainy,Severe,5,Tuesday,4,Summer,5
+ACC8113,2023-02-19,Jaipur,Bike,Distracted driving,Rainy,Fatal,4,Tuesday,5,Summer,5
+ACC7777,2020-01-28,Mumbai,Car,Over-speeding,Rainy,Moderate,6,Sunday,10,Winter,2
+ACC6871,2020-11-28,Chennai,Car,Weather conditions,Windy,Fatal,4,Sunday,7,Monsoon,2
+ACC9143,2020-02-17,Chennai,Bike,Drunk driving,Stormy,Severe,5,Friday,19,Monsoon,7
+ACC1086,2024-08-07,Pune,Van,Signal violation,Stormy,Severe,3,Friday,0,Monsoon,8
+ACC6812,2023-05-05,Jaipur,Auto,Distracted driving,Clear,Moderate,4,Friday,0,Winter,10
+ACC8691,2021-08-10,Surat,Auto,Signal violation,Stormy,Moderate,4,Sunday,9,Summer,10
+ACC6390,2022-01-15,Chennai,Van,Over-speeding,Stormy,Moderate,3,Thursday,11,Summer,1
+ACC5314,2023-08-02,Bangalore,Truck,Drunk driving,Clear,Fatal,5,Saturday,11,Summer,3
+ACC5533,2021-07-11,Chennai,Van,Red light jumping,Cloudy,Moderate,6,Thursday,11,Monsoon,1
+ACC1146,2023-08-08,Kolkata,Bus,Red light jumping,Windy,Moderate,6,Tuesday,7,Summer,1
+ACC1592,2021-04-12,Hyderabad,Auto,Road rage,Foggy,Minor,4,Saturday,10,Monsoon,7
+ACC6166,2023-05-27,Chennai,Truck,Signal violation,Windy,Fatal,4,Sunday,9,Winter,4
+ACC7211,2021-05-10,Bangalore,Auto,Road rage,Foggy,Severe,1,Thursday,9,Monsoon,4
+ACC4462,2024-10-07,Mumbai,Bus,Drunk driving,Cloudy,Minor,5,Wednesday,21,Summer,3
+ACC4458,2022-10-07,Surat,Bike,Distracted driving,Foggy,Severe,2,Thursday,23,Summer,2
+ACC1746,2021-11-05,Jaipur,Truck,Red light jumping,Rainy,Severe,1,Monday,0,Monsoon,1
+ACC4642,2021-01-26,Ahmedabad,Bus,Drunk driving,Foggy,Fatal,2,Friday,19,Monsoon,3
+ACC2100,2024-03-22,Kolkata,Van,Over-speeding,Windy,Fatal,3,Wednesday,15,Monsoon,5
+ACC7999,2020-03-17,Mumbai,Car,Drunk driving,Foggy,Moderate,4,Sunday,17,Winter,5
+ACC1783,2024-04-13,Delhi,Car,Distracted driving,Stormy,Severe,2,Sunday,16,Monsoon,3
+ACC2849,2020-06-09,Mumbai,Auto,Weather conditions,Cloudy,Moderate,2,Sunday,18,Winter,7
+ACC5557,2020-12-22,Delhi,Auto,Over-speeding,Rainy,Moderate,1,Sunday,23,Summer,2
+ACC9236,2022-08-03,Mumbai,Bike,Distracted driving,Clear,Moderate,5,Friday,10,Summer,6
+ACC8448,2021-12-03,Mumbai,Car,Signal violation,Foggy,Moderate,3,Wednesday,0,Monsoon,9
+ACC2796,2021-02-03,Delhi,Truck,Signal violation,Stormy,Minor,3,Thursday,16,Monsoon,9
+ACC2196,2021-12-09,Pune,Bus,Signal violation,Clear,Moderate,5,Tuesday,7,Winter,1
+ACC8469,2022-11-11,Surat,Bus,Distracted driving,Windy,Moderate,1,Friday,0,Monsoon,8
+ACC2990,2024-12-19,Bangalore,Truck,Drunk driving,Clear,Severe,4,Saturday,15,Summer,9
+ACC7325,2023-08-24,Pune,Truck,Road rage,Foggy,Moderate,4,Thursday,12,Summer,1
+ACC6916,2023-08-07,Bangalore,Bus,Signal violation,Clear,Minor,6,Tuesday,18,Winter,7
+ACC8881,2023-02-08,Pune,Bus,Signal violation,Rainy,Severe,2,Tuesday,12,Monsoon,4
+ACC7643,2023-03-28,Jaipur,Car,Red light jumping,Stormy,Moderate,1,Monday,2,Summer,4
+ACC6803,2020-09-21,Surat,Car,Weather conditions,Cloudy,Minor,3,Saturday,16,Winter,10
+ACC5032,2022-12-21,Mumbai,Car,Weather conditions,Windy,Moderate,4,Monday,19,Summer,4
+ACC3450,2023-10-27,Hyderabad,Car,Over-speeding,Rainy,Minor,5,Thursday,1,Monsoon,5
+ACC7656,2024-07-03,Kolkata,Truck,Over-speeding,Cloudy,Fatal,6,Tuesday,21,Summer,2
+ACC6142,2023-03-18,Jaipur,Auto,Weather conditions,Stormy,Severe,4,Monday,3,Winter,2
+ACC9440,2022-03-27,Chennai,Car,Distracted driving,Foggy,Minor,2,Wednesday,14,Summer,10
+ACC7435,2021-06-15,Jaipur,Truck,Drunk driving,Stormy,Moderate,6,Monday,16,Monsoon,10
+ACC9683,2021-11-30,Pune,Car,Distracted driving,Stormy,Fatal,6,Tuesday,19,Summer,7
+ACC9189,2023-12-01,Chennai,Auto,Signal violation,Stormy,Minor,5,Sunday,18,Monsoon,6
+ACC3526,2020-08-15,Surat,Bus,Drunk driving,Windy,Moderate,6,Saturday,2,Summer,2
+ACC2256,2024-02-21,Bangalore,Truck,Over-speeding,Clear,Severe,3,Sunday,12,Winter,7
+ACC5754,2022-09-04,Delhi,Van,Distracted driving,Clear,Severe,2,Saturday,15,Summer,9
+ACC5858,2022-06-03,Ahmedabad,Bus,Distracted driving,Foggy,Fatal,1,Thursday,17,Monsoon,10
+ACC8065,2020-12-26,Chennai,Bike,Road rage,Clear,Moderate,2,Friday,2,Winter,7
+ACC7615,2020-12-03,Hyderabad,Truck,Drunk driving,Rainy,Minor,4,Tuesday,22,Summer,3
+ACC2263,2023-02-27,Bangalore,Van,Red light jumping,Clear,Severe,4,Tuesday,10,Monsoon,4
+ACC4585,2023-06-16,Jaipur,Van,Weather conditions,Foggy,Severe,4,Thursday,8,Winter,9
+ACC8746,2021-03-28,Surat,Bus,Distracted driving,Rainy,Fatal,5,Friday,10,Monsoon,7
+ACC4566,2021-11-14,Ahmedabad,Bike,Over-speeding,Foggy,Moderate,4,Thursday,15,Winter,6
+ACC5947,2021-09-28,Jaipur,Auto,Distracted driving,Windy,Severe,6,Sunday,3,Monsoon,1
+ACC5720,2024-03-04,Kolkata,Van,Signal violation,Foggy,Minor,2,Tuesday,20,Winter,8
+ACC1558,2021-05-04,Bangalore,Bus,Road rage,Stormy,Fatal,6,Tuesday,4,Summer,5
+ACC7670,2024-06-02,Bangalore,Bike,Road rage,Clear,Moderate,1,Sunday,11,Monsoon,4
+ACC8382,2023-01-08,Ahmedabad,Bus,Weather conditions,Rainy,Fatal,6,Thursday,6,Summer,3
+ACC4394,2021-09-21,Jaipur,Van,Over-speeding,Rainy,Severe,4,Thursday,8,Monsoon,9
+ACC4930,2021-05-28,Hyderabad,Truck,Red light jumping,Clear,Moderate,6,Sunday,0,Summer,6
+ACC9384,2022-01-17,Hyderabad,Car,Red light jumping,Foggy,Moderate,1,Thursday,21,Monsoon,3
+ACC5329,2021-10-11,Mumbai,Truck,Weather conditions,Cloudy,Fatal,5,Wednesday,6,Summer,4
+ACC9498,2022-09-30,Jaipur,Bike,Weather conditions,Cloudy,Fatal,4,Monday,21,Monsoon,7
+ACC7623,2022-09-11,Ahmedabad,Truck,Red light jumping,Windy,Moderate,5,Thursday,7,Monsoon,3
+ACC2190,2020-02-12,Jaipur,Van,Over-speeding,Stormy,Moderate,5,Thursday,23,Summer,2
+ACC6820,2024-05-12,Pune,Car,Drunk driving,Stormy,Severe,5,Monday,6,Monsoon,4
+ACC1322,2022-02-24,Pune,Bus,Weather conditions,Cloudy,Minor,6,Friday,2,Winter,6
+ACC1296,2024-03-05,Mumbai,Bike,Distracted driving,Stormy,Fatal,5,Saturday,23,Monsoon,9
+ACC1767,2024-10-26,Ahmedabad,Auto,Drunk driving,Clear,Minor,4,Saturday,13,Summer,8
+ACC5903,2022-07-06,Pune,Van,Drunk driving,Windy,Moderate,5,Tuesday,12,Monsoon,2
+ACC5965,2022-03-22,Mumbai,Van,Over-speeding,Foggy,Severe,4,Wednesday,16,Winter,1
+ACC6114,2024-07-09,Ahmedabad,Truck,Distracted driving,Rainy,Severe,2,Saturday,7,Monsoon,3
+ACC3418,2024-02-24,Surat,Car,Signal violation,Cloudy,Fatal,6,Sunday,3,Monsoon,2
+ACC8094,2020-01-22,Chennai,Van,Signal violation,Stormy,Fatal,5,Tuesday,14,Monsoon,8
+ACC5154,2021-11-07,Ahmedabad,Truck,Over-speeding,Rainy,Severe,6,Monday,3,Summer,1
+ACC4654,2021-04-15,Kolkata,Bus,Drunk driving,Clear,Severe,3,Saturday,3,Winter,2
+ACC6424,2020-07-11,Bangalore,Van,Road rage,Clear,Fatal,1,Wednesday,20,Winter,8
+ACC1886,2021-10-15,Bangalore,Van,Distracted driving,Rainy,Fatal,4,Monday,13,Winter,8
+ACC3008,2021-03-09,Ahmedabad,Car,Drunk driving,Rainy,Moderate,2,Thursday,15,Summer,10
+ACC4911,2020-12-07,Chennai,Van,Road rage,Clear,Moderate,2,Tuesday,12,Summer,1
+ACC7611,2020-07-14,Ahmedabad,Bike,Drunk driving,Rainy,Moderate,4,Sunday,7,Summer,10
+ACC6022,2021-12-26,Jaipur,Van,Over-speeding,Stormy,Moderate,1,Sunday,12,Monsoon,5
+ACC5738,2020-07-29,Jaipur,Car,Distracted driving,Clear,Fatal,3,Tuesday,8,Monsoon,8
+ACC5522,2024-10-10,Bangalore,Car,Weather conditions,Windy,Severe,4,Friday,19,Winter,3
+ACC5368,2020-02-10,Hyderabad,Truck,Over-speeding,Clear,Fatal,5,Sunday,21,Monsoon,8
+ACC5895,2022-02-11,Mumbai,Car,Over-speeding,Rainy,Fatal,4,Monday,8,Monsoon,2
+ACC4430,2022-07-02,Ahmedabad,Van,Distracted driving,Cloudy,Minor,2,Friday,10,Winter,9
+ACC5250,2024-08-27,Pune,Auto,Weather conditions,Windy,Minor,6,Friday,3,Monsoon,4
+ACC6700,2020-01-06,Hyderabad,Truck,Drunk driving,Rainy,Fatal,6,Sunday,9,Summer,7
+ACC3613,2024-05-15,Ahmedabad,Auto,Over-speeding,Clear,Moderate,2,Sunday,6,Monsoon,5
+ACC8529,2020-06-19,Kolkata,Car,Over-speeding,Windy,Minor,5,Thursday,13,Winter,7
+ACC9663,2021-05-05,Kolkata,Car,Drunk driving,Clear,Severe,2,Wednesday,11,Summer,8
+ACC1731,2020-10-25,Ahmedabad,Car,Red light jumping,Windy,Moderate,4,Saturday,21,Winter,8
+ACC7611,2023-10-21,Bangalore,Van,Distracted driving,Foggy,Fatal,3,Friday,17,Summer,2
+ACC3725,2022-08-28,Chennai,Car,Red light jumping,Rainy,Minor,4,Sunday,11,Summer,2
+ACC4231,2021-07-17,Mumbai,Car,Weather conditions,Windy,Severe,3,Tuesday,22,Winter,10
+ACC4067,2022-01-15,Bangalore,Truck,Red light jumping,Rainy,Fatal,1,Monday,20,Summer,3
+ACC1602,2021-11-07,Jaipur,Car,Weather conditions,Windy,Minor,1,Friday,13,Monsoon,6
+ACC7812,2022-04-03,Ahmedabad,Auto,Weather conditions,Rainy,Moderate,4,Saturday,11,Summer,7
+ACC3311,2023-04-29,Chennai,Bus,Red light jumping,Clear,Minor,3,Sunday,6,Monsoon,3
+ACC1178,2021-03-18,Surat,Van,Road rage,Stormy,Minor,6,Friday,10,Monsoon,3
+ACC4637,2023-09-13,Chennai,Bike,Distracted driving,Windy,Severe,2,Monday,18,Summer,3
+ACC7502,2021-03-08,Bangalore,Truck,Red light jumping,Cloudy,Minor,3,Tuesday,21,Winter,8
+ACC4850,2021-01-08,Hyderabad,Van,Road rage,Rainy,Severe,3,Tuesday,12,Monsoon,9
+ACC3066,2024-02-03,Jaipur,Car,Drunk driving,Rainy,Minor,6,Monday,7,Monsoon,4
+ACC4216,2022-10-13,Chennai,Bus,Drunk driving,Stormy,Fatal,4,Sunday,10,Monsoon,7
+ACC1324,2020-06-09,Bangalore,Bike,Road rage,Foggy,Severe,2,Tuesday,20,Summer,7
+ACC4747,2023-11-02,Hyderabad,Bus,Signal violation,Windy,Minor,2,Wednesday,7,Summer,4
+ACC9703,2021-07-14,Surat,Van,Weather conditions,Rainy,Moderate,3,Friday,7,Monsoon,4
+ACC6314,2021-10-28,Bangalore,Auto,Signal violation,Foggy,Fatal,3,Tuesday,16,Monsoon,3
+ACC1419,2023-05-21,Kolkata,Bus,Red light jumping,Cloudy,Moderate,2,Saturday,23,Monsoon,6
+ACC7527,2021-06-19,Jaipur,Van,Distracted driving,Cloudy,Fatal,6,Thursday,23,Winter,8
+ACC8541,2022-08-29,Hyderabad,Bike,Road rage,Windy,Severe,2,Tuesday,1,Winter,3
+ACC4285,2024-06-05,Pune,Car,Road rage,Clear,Minor,1,Sunday,9,Winter,3
+ACC1239,2021-05-21,Ahmedabad,Bus,Drunk driving,Foggy,Minor,5,Sunday,18,Monsoon,1
+ACC5902,2021-01-25,Delhi,Truck,Road rage,Rainy,Severe,2,Saturday,23,Monsoon,4
+ACC8939,2020-10-29,Bangalore,Truck,Over-speeding,Windy,Moderate,1,Sunday,17,Summer,9
+ACC2301,2021-11-02,Kolkata,Van,Weather conditions,Stormy,Severe,1,Wednesday,23,Summer,7
+ACC8011,2021-12-09,Surat,Truck,Signal violation,Foggy,Fatal,6,Thursday,8,Monsoon,3
+ACC7874,2024-12-21,Delhi,Truck,Over-speeding,Clear,Fatal,2,Saturday,17,Summer,9
+ACC8839,2024-11-08,Jaipur,Truck,Signal violation,Foggy,Minor,4,Thursday,7,Monsoon,7
+ACC5299,2024-10-12,Kolkata,Van,Road rage,Windy,Fatal,6,Wednesday,0,Winter,4
+ACC5131,2023-09-13,Kolkata,Truck,Red light jumping,Stormy,Minor,4,Friday,23,Summer,9
+ACC6630,2024-02-15,Surat,Van,Drunk driving,Cloudy,Moderate,3,Friday,20,Monsoon,9
+ACC9890,2022-08-31,Chennai,Van,Distracted driving,Stormy,Severe,1,Saturday,16,Summer,6
+ACC4002,2022-04-20,Delhi,Bike,Drunk driving,Stormy,Minor,3,Saturday,4,Winter,4
+ACC8275,2023-05-22,Mumbai,Truck,Road rage,Stormy,Minor,6,Friday,17,Monsoon,5
+ACC4576,2020-07-27,Chennai,Van,Distracted driving,Stormy,Fatal,4,Saturday,10,Winter,6
+ACC9745,2024-06-22,Chennai,Bike,Distracted driving,Clear,Fatal,4,Tuesday,21,Monsoon,3
+ACC9716,2020-04-23,Ahmedabad,Van,Signal violation,Cloudy,Minor,4,Tuesday,23,Winter,10
+ACC3273,2022-05-30,Mumbai,Van,Distracted driving,Clear,Severe,6,Monday,16,Summer,9
+ACC6007,2022-04-27,Delhi,Truck,Weather conditions,Rainy,Fatal,6,Tuesday,11,Summer,3
+ACC4476,2022-01-30,Delhi,Car,Red light jumping,Windy,Minor,6,Thursday,9,Winter,4
+ACC9730,2022-04-09,Bangalore,Car,Signal violation,Cloudy,Moderate,4,Monday,23,Monsoon,4
+ACC9498,2022-12-23,Jaipur,Auto,Distracted driving,Cloudy,Severe,2,Monday,8,Summer,1
+ACC5979,2020-11-03,Ahmedabad,Car,Road rage,Clear,Fatal,3,Sunday,15,Winter,7
+ACC4107,2024-06-14,Jaipur,Auto,Signal violation,Windy,Minor,4,Monday,11,Monsoon,8
+ACC9853,2020-09-18,Chennai,Van,Distracted driving,Windy,Fatal,4,Monday,12,Monsoon,9
+ACC9627,2021-05-28,Kolkata,Auto,Signal violation,Foggy,Minor,4,Wednesday,2,Monsoon,6
+ACC5527,2023-10-20,Ahmedabad,Car,Distracted driving,Stormy,Severe,2,Monday,7,Winter,3
+ACC2643,2022-04-29,Delhi,Bike,Road rage,Windy,Fatal,4,Monday,19,Winter,5
+ACC9943,2024-11-24,Pune,Car,Drunk driving,Foggy,Minor,4,Wednesday,9,Winter,7
+ACC8956,2020-07-04,Bangalore,Bike,Distracted driving,Rainy,Fatal,1,Wednesday,11,Winter,6
+ACC6838,2023-03-05,Pune,Car,Weather conditions,Clear,Moderate,1,Wednesday,23,Monsoon,5
+ACC2702,2020-03-30,Chennai,Bus,Distracted driving,Foggy,Minor,6,Wednesday,4,Summer,10
+ACC2284,2022-08-17,Surat,Truck,Signal violation,Foggy,Fatal,2,Thursday,11,Summer,5
+ACC5273,2021-04-24,Delhi,Car,Drunk driving,Windy,Minor,5,Monday,19,Winter,9
+ACC8270,2020-07-13,Chennai,Car,Signal violation,Windy,Moderate,2,Tuesday,0,Monsoon,9
+ACC6226,2021-10-31,Ahmedabad,Auto,Weather conditions,Clear,Fatal,5,Saturday,18,Winter,7
+ACC8923,2023-01-24,Jaipur,Van,Drunk driving,Stormy,Minor,1,Tuesday,10,Winter,5
+ACC6427,2020-02-15,Ahmedabad,Auto,Red light jumping,Cloudy,Severe,1,Saturday,12,Monsoon,2
+ACC5357,2022-04-16,Bangalore,Van,Drunk driving,Rainy,Minor,3,Saturday,15,Winter,10
+ACC5139,2020-10-09,Kolkata,Truck,Signal violation,Stormy,Severe,3,Thursday,5,Monsoon,8
+ACC8650,2024-02-12,Kolkata,Auto,Drunk driving,Rainy,Minor,1,Tuesday,4,Summer,3
+ACC2038,2020-10-23,Bangalore,Van,Drunk driving,Rainy,Fatal,4,Monday,11,Monsoon,1
+ACC5353,2020-07-28,Jaipur,Truck,Over-speeding,Foggy,Minor,3,Friday,10,Monsoon,9
+ACC1068,2020-02-20,Jaipur,Auto,Road rage,Rainy,Severe,4,Sunday,16,Monsoon,9
+ACC1573,2021-12-03,Kolkata,Auto,Over-speeding,Stormy,Fatal,1,Saturday,23,Monsoon,9
+ACC2857,2020-02-07,Jaipur,Car,Drunk driving,Windy,Fatal,2,Thursday,13,Winter,6
+ACC1929,2020-08-19,Delhi,Bike,Distracted driving,Stormy,Moderate,2,Tuesday,10,Monsoon,1
+ACC8763,2023-02-15,Kolkata,Bus,Weather conditions,Stormy,Minor,5,Tuesday,8,Summer,5
+ACC4027,2022-01-28,Jaipur,Van,Over-speeding,Windy,Fatal,1,Tuesday,22,Monsoon,5
+ACC8531,2020-03-24,Mumbai,Truck,Drunk driving,Rainy,Fatal,3,Monday,8,Monsoon,1
+ACC8438,2022-10-29,Hyderabad,Bus,Signal violation,Rainy,Minor,2,Thursday,22,Winter,4
+ACC9873,2021-08-19,Chennai,Truck,Distracted driving,Rainy,Fatal,3,Monday,22,Winter,6
+ACC2376,2020-12-13,Kolkata,Van,Weather conditions,Foggy,Fatal,1,Tuesday,21,Summer,2
+ACC6382,2022-01-08,Pune,Auto,Red light jumping,Windy,Minor,2,Tuesday,19,Summer,9
+ACC7192,2024-02-03,Pune,Auto,Signal violation,Rainy,Moderate,4,Wednesday,3,Winter,7
+ACC7356,2023-08-31,Ahmedabad,Car,Drunk driving,Windy,Severe,4,Friday,17,Summer,8
+ACC8079,2021-02-16,Kolkata,Bus,Distracted driving,Cloudy,Minor,6,Sunday,5,Summer,10
+ACC2870,2020-06-08,Pune,Bus,Drunk driving,Stormy,Severe,5,Saturday,23,Monsoon,1
+ACC9544,2023-12-31,Bangalore,Truck,Distracted driving,Windy,Fatal,4,Wednesday,2,Winter,1
+ACC9055,2021-11-15,Hyderabad,Auto,Over-speeding,Windy,Moderate,5,Tuesday,0,Summer,8
+ACC8794,2020-01-22,Chennai,Truck,Over-speeding,Rainy,Fatal,2,Tuesday,22,Winter,4
+ACC5018,2020-08-30,Surat,Auto,Signal violation,Stormy,Fatal,1,Tuesday,23,Summer,6
+ACC4998,2021-06-03,Delhi,Auto,Weather conditions,Cloudy,Moderate,6,Saturday,12,Summer,5
+ACC1294,2024-02-01,Chennai,Truck,Drunk driving,Stormy,Moderate,5,Friday,13,Monsoon,3
+ACC8100,2021-07-27,Chennai,Bus,Distracted driving,Stormy,Minor,3,Wednesday,8,Monsoon,2
+ACC7162,2022-11-01,Chennai,Bike,Distracted driving,Stormy,Fatal,6,Saturday,7,Winter,1
+ACC6429,2020-04-27,Delhi,Bus,Weather conditions,Foggy,Minor,5,Tuesday,18,Monsoon,5
+ACC5920,2024-11-22,Kolkata,Car,Road rage,Foggy,Moderate,6,Monday,3,Summer,1
+ACC5137,2021-11-28,Mumbai,Bike,Over-speeding,Cloudy,Minor,1,Wednesday,13,Summer,1
+ACC4043,2023-07-23,Bangalore,Auto,Distracted driving,Clear,Severe,6,Thursday,2,Summer,1
+ACC6019,2020-12-01,Hyderabad,Van,Road rage,Clear,Severe,1,Tuesday,2,Summer,8
+ACC9598,2020-02-20,Chennai,Truck,Road rage,Cloudy,Moderate,4,Saturday,1,Summer,2
+ACC4085,2020-04-19,Mumbai,Bike,Over-speeding,Cloudy,Severe,3,Friday,20,Winter,6
+ACC2200,2020-06-11,Jaipur,Auto,Over-speeding,Clear,Fatal,5,Thursday,16,Summer,1
+ACC3083,2022-06-07,Bangalore,Bike,Drunk driving,Clear,Moderate,6,Thursday,5,Winter,5
+ACC4634,2020-07-27,Surat,Car,Red light jumping,Clear,Minor,5,Sunday,13,Winter,6
+ACC5496,2024-01-23,Chennai,Bus,Distracted driving,Stormy,Moderate,3,Thursday,23,Summer,3
+ACC1401,2023-06-10,Jaipur,Bus,Weather conditions,Cloudy,Severe,2,Thursday,7,Summer,2
+ACC2184,2023-02-19,Delhi,Bus,Weather conditions,Clear,Minor,1,Monday,14,Monsoon,10
+ACC4173,2024-06-18,Kolkata,Car,Over-speeding,Foggy,Moderate,5,Friday,20,Winter,7
+ACC9504,2024-12-16,Jaipur,Bus,Weather conditions,Windy,Minor,2,Thursday,20,Monsoon,1
+ACC7887,2020-04-25,Surat,Bus,Signal violation,Rainy,Severe,4,Tuesday,22,Winter,9
+ACC3147,2022-11-18,Kolkata,Bike,Distracted driving,Rainy,Fatal,3,Thursday,1,Monsoon,7
+ACC6366,2022-10-06,Surat,Van,Weather conditions,Cloudy,Severe,2,Monday,18,Winter,3
+ACC7665,2024-02-01,Hyderabad,Van,Road rage,Foggy,Severe,5,Wednesday,12,Monsoon,9
+ACC5765,2021-09-04,Surat,Truck,Drunk driving,Foggy,Minor,6,Wednesday,22,Summer,10
+ACC9982,2020-07-08,Surat,Truck,Weather conditions,Stormy,Moderate,4,Sunday,4,Summer,3
+ACC7801,2024-11-18,Jaipur,Bus,Red light jumping,Foggy,Minor,4,Thursday,5,Winter,10
+ACC5818,2020-08-08,Surat,Auto,Drunk driving,Rainy,Severe,6,Thursday,21,Monsoon,10
+ACC2230,2022-03-07,Chennai,Bike,Signal violation,Stormy,Minor,1,Tuesday,3,Monsoon,1
+ACC2351,2024-01-14,Delhi,Auto,Over-speeding,Foggy,Minor,6,Sunday,12,Winter,9
+ACC8945,2022-05-29,Hyderabad,Van,Road rage,Stormy,Moderate,3,Saturday,3,Winter,8
+ACC2958,2020-08-26,Mumbai,Auto,Signal violation,Windy,Severe,4,Thursday,14,Summer,6
+ACC7960,2022-11-23,Surat,Van,Road rage,Rainy,Moderate,4,Wednesday,8,Summer,8
+ACC4849,2021-06-07,Ahmedabad,Bus,Distracted driving,Clear,Severe,1,Monday,20,Summer,2
+ACC2813,2021-01-29,Bangalore,Van,Red light jumping,Foggy,Minor,6,Tuesday,16,Winter,2
+ACC5890,2023-10-14,Hyderabad,Car,Over-speeding,Windy,Moderate,3,Wednesday,17,Summer,5
+ACC2728,2021-06-25,Jaipur,Bike,Weather conditions,Windy,Fatal,1,Saturday,22,Summer,1
+ACC6424,2020-01-29,Delhi,Bike,Distracted driving,Foggy,Minor,3,Friday,7,Summer,8
+ACC9124,2024-07-24,Mumbai,Bike,Red light jumping,Foggy,Fatal,6,Tuesday,22,Summer,5
+ACC4266,2023-10-06,Mumbai,Bike,Road rage,Windy,Severe,3,Monday,7,Summer,6
+ACC7477,2024-04-13,Surat,Truck,Over-speeding,Rainy,Minor,5,Tuesday,10,Monsoon,10
+ACC9476,2020-10-28,Hyderabad,Truck,Road rage,Clear,Fatal,5,Tuesday,13,Monsoon,5
+ACC4646,2023-04-16,Mumbai,Van,Signal violation,Windy,Moderate,5,Sunday,2,Summer,7
+ACC2968,2022-10-22,Hyderabad,Truck,Distracted driving,Clear,Fatal,1,Tuesday,6,Monsoon,6
+ACC5746,2024-12-21,Kolkata,Auto,Signal violation,Clear,Moderate,6,Tuesday,5,Winter,4
+ACC4981,2022-01-22,Surat,Auto,Signal violation,Windy,Moderate,5,Monday,21,Winter,2
+ACC4457,2020-04-10,Chennai,Auto,Weather conditions,Rainy,Moderate,6,Saturday,11,Winter,6
+ACC9845,2020-02-26,Jaipur,Van,Weather conditions,Foggy,Fatal,2,Monday,8,Monsoon,6
+ACC2426,2022-01-03,Ahmedabad,Bike,Red light jumping,Stormy,Minor,6,Sunday,19,Winter,5
+ACC7659,2023-02-26,Delhi,Truck,Road rage,Stormy,Minor,1,Sunday,13,Monsoon,4
+ACC4150,2023-10-22,Chennai,Van,Distracted driving,Rainy,Moderate,6,Thursday,1,Summer,4
+ACC3657,2022-04-26,Delhi,Bike,Distracted driving,Windy,Moderate,5,Thursday,19,Winter,3
+ACC9454,2021-04-10,Pune,Van,Drunk driving,Foggy,Severe,3,Tuesday,12,Winter,5
+ACC1671,2021-12-17,Surat,Bike,Over-speeding,Cloudy,Minor,4,Friday,1,Winter,9
+ACC7992,2020-11-20,Jaipur,Bike,Distracted driving,Windy,Minor,4,Saturday,0,Summer,2
+ACC8573,2023-07-16,Ahmedabad,Bus,Road rage,Clear,Moderate,3,Wednesday,0,Winter,9
+ACC3612,2021-05-25,Ahmedabad,Car,Distracted driving,Foggy,Minor,3,Wednesday,14,Winter,9
+ACC5595,2021-11-25,Hyderabad,Van,Weather conditions,Clear,Minor,2,Friday,17,Winter,1
+ACC4528,2022-02-02,Kolkata,Car,Red light jumping,Stormy,Severe,2,Friday,22,Summer,10
+ACC9053,2021-11-30,Ahmedabad,Car,Red light jumping,Stormy,Fatal,3,Sunday,14,Winter,2
+ACC2869,2020-08-12,Hyderabad,Bike,Road rage,Stormy,Fatal,3,Wednesday,8,Summer,2
+ACC3660,2024-05-20,Jaipur,Van,Signal violation,Foggy,Minor,5,Monday,9,Monsoon,9
+ACC5449,2023-03-29,Chennai,Truck,Road rage,Cloudy,Fatal,1,Tuesday,22,Summer,6
+ACC2050,2022-03-20,Hyderabad,Bus,Road rage,Stormy,Moderate,5,Tuesday,3,Monsoon,10
+ACC1235,2020-03-27,Delhi,Bus,Drunk driving,Cloudy,Minor,6,Tuesday,19,Summer,7
+ACC6406,2020-12-01,Mumbai,Bike,Distracted driving,Cloudy,Fatal,3,Thursday,19,Summer,5
+ACC5143,2021-07-22,Ahmedabad,Van,Distracted driving,Cloudy,Minor,1,Wednesday,3,Summer,3
+ACC4861,2022-03-28,Jaipur,Bike,Drunk driving,Cloudy,Severe,3,Tuesday,13,Monsoon,2
+ACC7567,2020-09-21,Hyderabad,Auto,Over-speeding,Cloudy,Fatal,4,Monday,0,Summer,2
+ACC9555,2022-04-17,Hyderabad,Car,Weather conditions,Stormy,Fatal,3,Sunday,17,Winter,8
+ACC6074,2023-06-29,Ahmedabad,Van,Over-speeding,Cloudy,Severe,2,Wednesday,5,Winter,10
+ACC4566,2023-12-05,Bangalore,Bus,Drunk driving,Foggy,Fatal,2,Saturday,21,Summer,2
+ACC5212,2024-03-26,Mumbai,Van,Signal violation,Cloudy,Fatal,4,Wednesday,10,Monsoon,2
+ACC9382,2020-12-13,Chennai,Bus,Red light jumping,Rainy,Fatal,5,Wednesday,10,Summer,3
+ACC4420,2021-05-27,Bangalore,Bike,Distracted driving,Rainy,Fatal,4,Monday,21,Monsoon,6
+ACC6103,2023-04-04,Bangalore,Bus,Weather conditions,Foggy,Fatal,4,Monday,10,Winter,6
+ACC7117,2023-10-12,Surat,Truck,Drunk driving,Rainy,Fatal,1,Sunday,14,Monsoon,6
+ACC5591,2024-05-14,Mumbai,Truck,Drunk driving,Rainy,Fatal,3,Sunday,18,Summer,5
+ACC2169,2021-01-19,Ahmedabad,Car,Over-speeding,Foggy,Severe,1,Monday,0,Monsoon,4
+ACC9541,2020-01-10,Kolkata,Truck,Over-speeding,Foggy,Severe,3,Monday,11,Summer,7
+ACC8120,2021-07-23,Surat,Bike,Over-speeding,Cloudy,Minor,1,Monday,10,Monsoon,5
+ACC8759,2021-03-25,Bangalore,Auto,Drunk driving,Clear,Fatal,1,Sunday,3,Monsoon,6
+ACC2810,2020-05-13,Delhi,Bus,Signal violation,Foggy,Fatal,5,Friday,15,Winter,8
+ACC1342,2023-01-07,Ahmedabad,Car,Signal violation,Foggy,Minor,3,Wednesday,0,Summer,6
+ACC5851,2023-02-04,Pune,Truck,Road rage,Clear,Minor,2,Saturday,18,Monsoon,9
+ACC8573,2022-08-10,Jaipur,Truck,Over-speeding,Windy,Moderate,4,Monday,6,Summer,1
+ACC8193,2022-06-24,Bangalore,Auto,Over-speeding,Stormy,Minor,1,Thursday,14,Winter,8
+ACC7194,2021-01-15,Surat,Auto,Drunk driving,Cloudy,Fatal,2,Sunday,9,Summer,3
+ACC5313,2021-12-22,Hyderabad,Auto,Weather conditions,Rainy,Minor,2,Monday,17,Summer,9
+ACC2085,2020-04-16,Surat,Auto,Red light jumping,Windy,Minor,3,Wednesday,12,Summer,9
+ACC9877,2024-04-27,Jaipur,Truck,Distracted driving,Windy,Severe,5,Friday,1,Monsoon,6
+ACC1771,2021-12-23,Hyderabad,Car,Weather conditions,Windy,Moderate,4,Thursday,11,Summer,3
+ACC3325,2020-04-22,Delhi,Car,Red light jumping,Clear,Severe,1,Thursday,2,Summer,10
+ACC7527,2020-09-11,Kolkata,Bus,Over-speeding,Stormy,Fatal,6,Sunday,5,Summer,5
+ACC2063,2021-06-16,Ahmedabad,Van,Drunk driving,Stormy,Fatal,5,Tuesday,0,Winter,10
+ACC4455,2021-02-13,Bangalore,Bus,Red light jumping,Rainy,Moderate,5,Wednesday,19,Winter,2
+ACC4321,2023-05-29,Pune,Car,Signal violation,Foggy,Moderate,2,Friday,16,Winter,4
+ACC2208,2023-12-02,Bangalore,Car,Weather conditions,Clear,Minor,5,Tuesday,6,Monsoon,7
+ACC6203,2022-04-23,Ahmedabad,Bus,Road rage,Stormy,Moderate,1,Sunday,17,Winter,2
+ACC7912,2021-02-14,Hyderabad,Truck,Weather conditions,Foggy,Minor,6,Sunday,16,Winter,6
